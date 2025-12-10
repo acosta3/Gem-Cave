@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/antho/Desktop/GitHub/Gem-Cave/GemCave/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/antho/Desktop/GitHub/Gem-Cave/GemCave/Content/MyStuff/Levels/Level1.umap",
+				"C:/Users/antho/Desktop/GitHub/Gem-Cave/GemCave/Content/MyStuff/Levels/_GENERATED/antho/Box_22A886E1.uasset",
+				"C:/Users/antho/Desktop/GitHub/Gem-Cave/GemCave/Content/MyStuff/Levels/_GENERATED/antho/Box_62E64E8F.uasset",
+				"C:/Users/antho/Desktop/GitHub/Gem-Cave/GemCave/Content/MyStuff/Levels/_GENERATED/antho/Box_96B23FC0.uasset",
+				"C:/Users/antho/Desktop/GitHub/Gem-Cave/GemCave/Content/MyStuff/Levels/_GENERATED/antho/Box_E513969E.uasset",
+				"C:/Users/antho/Desktop/GitHub/Gem-Cave/GemCave/Content/MyStuff/Levels/UndergroundSkybox.uasset"
+			]
+		}
+	]
+}
