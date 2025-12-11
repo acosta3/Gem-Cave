@@ -1302,3 +1302,352 @@ LogConfig: Set CVar [[r.VRS.EnableSoftware:1]]
 [2025.12.11-17.29.01:861][442]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.12.11-17.29.01:861][442]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.12.11-17.29.01:861][442]AssetCheck: /Game/MyStuff/Levels/Level1 Validating asset
+[2025.12.11-17.30.03:280][748]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 360.451843
+[2025.12.11-17.30.04:277][750]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.11-17.30.04:277][750]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 361.116364, Update Interval: 321.647400
+[2025.12.11-17.32.10:209][426]LogStreaming: Display: FlushAsyncLoading(349): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.11-17.32.10:214][426]LogInteractiveToolsContext: Display: Automatically partition the selected Mesh into UV islands, flatten, and pack into a single UV chart
+[2025.12.11-17.32.10:264][428]LogRenderer: Using fallback RTPSO
+[2025.12.11-17.32.18:953][335]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2025.12.11-17.32.18:958][335]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2025.12.11-17.32.18:963][335]LogStreaming: Display: FlushAsyncLoading(350): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.11-17.32.19:283][335]LogInteractiveToolsContext: Display: Select elements in the viewport. Activate transform gizmo in viewport to transform them.
+[2025.12.11-17.32.19:460][335]LogSlate: Took 0.000182 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.12.11-17.32.19:488][335]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.12.11-17.32.19:566][336]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.12.11-17.32.19:674][339]LogTexture: Display: Building textures: /UVEditor/Textures/UVEditorColorGrid_Grayscale.UVEditorColorGrid_Grayscale (BGRA8, 4096x4096 x1x1x1) (Required Memory Estimate: 576.999992 MB), EncodeSpeed: Fast
+[2025.12.11-17.32.19:731][340]LogRenderer: Using fallback RTPSO
+[2025.12.11-17.32.19:732][340]LogTexture: Display: Building textures: /UVEditor/Textures/UVEditorColorGrid_Mask.UVEditorColorGrid_Mask (TFO_DXT1, 4096x4096 x1x1x1) (Required Memory Estimate: 1120.999983 MB), EncodeSpeed: Fast
+[2025.12.11-17.32.19:750][340]LogD3D12RHI: Creating RTPSO with 50 shaders (0 cached, 1 new) took 18.81 ms. Compile time 9.84 ms, link time 8.86 ms.
+[2025.12.11-17.32.19:760][341]LogTexture: Display: Building textures: /UVEditor/Textures/UVEditorColorGrid_Alpha.UVEditorColorGrid_Alpha (TFO_BC4, 4096x4096 x1x1x1) (Required Memory Estimate: 1078.749987 MB), EncodeSpeed: Fast
+[2025.12.11-17.32.19:768][341]LogTexture: Display: Building textures: /UVEditor/Textures/UVEditorColorGrid_LinearGrayscale.UVEditorColorGrid_LinearGrayscale (G8, 4096x4096 x1x1x1) (Required Memory Estimate: 512.999993 MB), EncodeSpeed: Fast
+[2025.12.11-17.32.19:773][341]LogTexture: Display: Building textures: /UVEditor/Textures/UVEditorColorGrid_Color.UVEditorColorGrid_Color (TFO_DXT1, 4096x4096 x1x1x1) (Required Memory Estimate: 1120.999983 MB), EncodeSpeed: Fast
+[2025.12.11-17.32.19:775][341]LogTexture: Display: Building textures: /UVEditor/Textures/UVEditorColorGrid_DistanceFieldFont.UVEditorColorGrid_DistanceFieldFont (BGRA8, 4096x4096 x1x1x1) (Required Memory Estimate: 576.999992 MB), EncodeSpeed: Fast
+[2025.12.11-17.32.19:778][341]LogTexture: Display: Building textures: /UVEditor/Textures/UVEditorColorGrid_Normal.UVEditorColorGrid_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.12.11-17.32.19:783][341]LogTexture: Display: Building textures: /UVEditor/Textures/UVEditorColorGrid_LinearColor.UVEditorColorGrid_LinearColor (TFO_DXT1, 4096x4096 x1x1x1) (Required Memory Estimate: 1120.999983 MB), EncodeSpeed: Fast
+[2025.12.11-17.32.19:791][342]LogTexture: Display: Building textures: /UVEditor/Textures/UVEditorColorGrid_Data.UVEditorColorGrid_Data (BGRA8, 4096x4096 x1x1x1) (Required Memory Estimate: 576.999992 MB), EncodeSpeed: Fast
+[2025.12.11-17.32.20:544][376]LogTexture: Display: Building textures: /UVEditor/Textures/UVEditorColorGrid_VTColor.UVEditorColorGrid_VTColor (TFO_DXT1 VT, 4096x4096 x1x1x1) (Required Memory Estimate: 747.666666 MB), EncodeSpeed: Fast
+[2025.12.11-17.32.20:559][376]LogTexture: Display: Building textures: /UVEditor/Textures/UVEditorColorGrid_VTAlpha.UVEditorColorGrid_VTAlpha (TFO_BC4 VT, 4096x4096 x1x1x1) (Required Memory Estimate: 747.666666 MB), EncodeSpeed: Fast
+[2025.12.11-17.32.20:578][377]LogTexture: Display: Building textures: /UVEditor/Textures/UVEditorColorGrid_VTLinearColor.UVEditorColorGrid_VTLinearColor (TFO_DXT1 VT, 4096x4096 x1x1x1) (Required Memory Estimate: 747.666666 MB), EncodeSpeed: Fast
+[2025.12.11-17.32.20:584][377]LogTexture: Display: Building textures: /UVEditor/Textures/UVEditorColorGrid_VTMask.UVEditorColorGrid_VTMask (TFO_DXT1 VT, 4096x4096 x1x1x1) (Required Memory Estimate: 747.666666 MB), EncodeSpeed: Fast
+[2025.12.11-17.32.20:588][377]LogTexture: Display: Building textures: /UVEditor/Textures/UVEditorColorGrid_VTGrayscale.UVEditorColorGrid_VTGrayscale (BGRA8 VT, 4096x4096 x1x1x1) (Required Memory Estimate: 747.666666 MB), EncodeSpeed: Fast
+[2025.12.11-17.32.20:608][378]LogTexture: Display: Building textures: /UVEditor/Textures/UVEditorColorGrid_VTLinearGrayscale.UVEditorColorGrid_VTLinearGrayscale (G8 VT, 4096x4096 x1x1x1) (Required Memory Estimate: 747.666666 MB), EncodeSpeed: Fast
+[2025.12.11-17.32.20:619][378]LogTexture: Display: Building textures: /UVEditor/Textures/UVEditorColorGrid_VTNormal.UVEditorColorGrid_VTNormal (TFO_BC5 VT, 4096x4096 x1x1x1) (Required Memory Estimate: 747.666666 MB), EncodeSpeed: Fast
+[2025.12.11-17.32.22:436][505]LogSlate: Window 'UV: Box_84F91511' being destroyed
+[2025.12.11-17.32.22:458][505]LogSlate: Window 'UV: Box_84F91511' being destroyed
+[2025.12.11-17.32.22:504][505]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.12.11-17.32.22:504][505]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.11-17.32.22:504][505]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.12.11-17.32.22:504][505]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.11-17.32.22:550][505]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.12.11-17.32.45:831][185]LogInteractiveToolsContext: Display: Generate UVs for a Mesh by projecting onto simple geometric shapes. Ctrl+click to reposition shape. Shift+Ctrl+click to reposition shape without reorienting. Face selections can be made in the PolyEdit and TriEdit Tools. 
+[2025.12.11-17.32.53:420][ 15]LogStaticMesh: Display: Building static mesh Box_84F91511 (Required Memory Estimate: 0.151098 MB)...
+[2025.12.11-17.32.53:420][ 15]LogStaticMesh: Built static mesh [0.00s] /Game/MyStuff/Box_84F91511.Box_84F91511
+[2025.12.11-17.32.53:421][ 15]LogStaticMesh: Warning: Box_84F91511 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.12.11-17.32.53:421][ 15]LogStaticMesh: Warning: Box_84F91511 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.12.11-17.33.05:273][366]LogShaderCompilers: Display: ================================================
+[2025.12.11-17.33.05:273][366]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.12.11-17.33.05:273][366]LogShaderCompilers: Display: Total job queries 498, among them cache hits 89 (17.87%), DDC hits 343 (68.88%), Duplicates 62 (12.45%)
+[2025.12.11-17.33.05:273][366]LogShaderCompilers: Display: Tracking 347 distinct input hashes that result in 231 distinct outputs (66.57%)
+[2025.12.11-17.33.05:273][366]LogShaderCompilers: Display: RAM used: 1.96 MiB of 1.60 GiB budget. Usage: 0.12%
+[2025.12.11-17.33.05:273][366]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.12.11-17.33.05:273][366]LogShaderCompilers: Display: Shaders Compiled: 4
+[2025.12.11-17.33.05:273][366]LogShaderCompilers: Display: Jobs assigned 4, completed 4 (100%)
+[2025.12.11-17.33.05:273][366]LogShaderCompilers: Display: Time job spent in pending queue: average 0.02 s, longest 0.03 s
+[2025.12.11-17.33.05:273][366]LogShaderCompilers: Display: Job execution time: average 1.88 s, max 2.03 s
+[2025.12.11-17.33.05:273][366]LogShaderCompilers: Display: Job life time (pending + execution): average 1.90 s, max 2.05
+[2025.12.11-17.33.05:273][366]LogShaderCompilers: Display: Shader code size: total 34.051 KiB, numShaders 4, average 8.513 KiB, min 2.785 KiB, max 12.883 KiB
+[2025.12.11-17.33.05:273][366]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.06 s
+[2025.12.11-17.33.05:273][366]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.12.11-17.33.05:273][366]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.12.11-17.33.05:273][366]LogShaderCompilers: Display: Average processing rate: 1.94 jobs/sec
+[2025.12.11-17.33.05:273][366]LogShaderCompilers: Display: Total thread time: 1.248 s
+[2025.12.11-17.33.05:273][366]LogShaderCompilers: Display: Total thread preprocess time: 5.253 s
+[2025.12.11-17.33.05:273][366]LogShaderCompilers: Display: Percentage time preprocessing: 420.99%
+[2025.12.11-17.33.05:273][366]LogShaderCompilers: Display: Effective parallelization: 0.61 (times faster than compiling all shaders on one thread). Compare with number of workers: 10 - 0.060647
+[2025.12.11-17.33.05:273][366]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.12.11-17.33.05:273][366]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.43 sec, max 0.43 sec, min 0.43 sec)
+[2025.12.11-17.33.05:273][366]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.30 sec, max 0.30 sec, min 0.30 sec)
+[2025.12.11-17.33.05:273][366]LogShaderCompilers: Display:                                                  FHitProxyPS (compiled    1 times, average 0.27 sec, max 0.27 sec, min 0.27 sec)
+[2025.12.11-17.33.05:273][366]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    1 times, average 0.25 sec, max 0.25 sec, min 0.25 sec)
+[2025.12.11-17.33.05:273][366]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.12.11-17.33.05:273][366]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.12.11-17.33.05:273][366]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 34.72% of total time (compiled    1 times, average 0.43 sec, max 0.43 sec, min 0.43 sec)
+[2025.12.11-17.33.05:273][366]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 24.16% of total time (compiled    1 times, average 0.30 sec, max 0.30 sec, min 0.30 sec)
+[2025.12.11-17.33.05:273][366]LogShaderCompilers: Display:                                                  FHitProxyPS - 21.35% of total time (compiled    1 times, average 0.27 sec, max 0.27 sec, min 0.27 sec)
+[2025.12.11-17.33.05:273][366]LogShaderCompilers: Display:                                                  FHitProxyVS - 19.77% of total time (compiled    1 times, average 0.25 sec, max 0.25 sec, min 0.25 sec)
+[2025.12.11-17.33.05:273][366]LogShaderCompilers: Display:                                 FLandscapePhysicalMaterialVS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.12.11-17.33.05:273][366]LogShaderCompilers: Display: === Material stats ===
+[2025.12.11-17.33.05:273][366]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.12.11-17.33.05:273][366]LogShaderCompilers: Display: Materials Translated:    160
+[2025.12.11-17.33.05:273][366]LogShaderCompilers: Display: Material Total Translate Time: 0.22 s
+[2025.12.11-17.33.05:273][366]LogShaderCompilers: Display: Material Translation Only: 0.03 s (14%)
+[2025.12.11-17.33.05:273][366]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.12.11-17.33.05:273][366]LogShaderCompilers: Display: Material Cache Hits: 12 (8%)
+[2025.12.11-17.33.05:273][366]LogShaderCompilers: Display: ================================================
+[2025.12.11-17.34.45:464][821]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TriggerBox
+[2025.12.11-17.34.45:464][821]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TriggerBox
+[2025.12.11-17.34.45:466][821]LogActorFactory: Actor Factory spawned Class /Script/Engine.TriggerBox as actor: TriggerBox /Game/MyStuff/Levels/Level1.Level1:PersistentLevel.TriggerBox_0
+[2025.12.11-17.34.45:467][821]LogActorFactory: Actor Factory spawned Class /Script/Engine.TriggerBox as actor: TriggerBox /Game/MyStuff/Levels/Level1.Level1:PersistentLevel.TriggerBox_0
+[2025.12.11-17.34.57:943][178]Cmd: DELETE
+[2025.12.11-17.34.57:943][178]Cmd: ACTOR DELETE
+[2025.12.11-17.34.57:947][178]LogEditorActor: Deleted Actor: TriggerBox
+[2025.12.11-17.34.57:963][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.12.11-17.34.57:966][178]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.12.11-17.35.25:592][215]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.12.11-17.36.03:965][215]LogSlate: Window 'Create Blank Blueprint Class' being destroyed
+[2025.12.11-17.36.03:980][215]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyStuff/BP_TriggerBox.BP_TriggerBox
+[2025.12.11-17.36.03:980][215]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2025.12.11-17.36.04:062][215]LogStreaming: Display: FlushAsyncLoading(360): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.11-17.36.07:547][416]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 724.720581
+[2025.12.11-17.36.07:617][422]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.11-17.36.07:617][423]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 724.778320, Update Interval: 324.939728
+[2025.12.11-17.36.38:988][984]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.11-17.36.39:045][984]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MyStuff/BP_TriggerBox] ([2] browsable assets)...
+[2025.12.11-17.36.39:046][984]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyStuff/BP_TriggerBox]
+[2025.12.11-17.36.39:046][984]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyStuff/BP_TriggerBox" FILE="../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Content/MyStuff/BP_TriggerBox.uasset" SILENT=true
+[2025.12.11-17.36.39:049][984]LogSavePackage: Moving output files for package: /Game/MyStuff/BP_TriggerBox
+[2025.12.11-17.36.39:049][984]LogSavePackage: Moving '../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Saved/BP_TriggerBox394A71A2457F449832A1D284451F5285.tmp' to '../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Content/MyStuff/BP_TriggerBox.uasset'
+[2025.12.11-17.36.39:061][984]LogFileHelpers: InternalPromptForCheckoutAndSave took 72.713 ms (total: 312.834 ms)
+[2025.12.11-17.36.39:108][984]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.11-17.36.39:108][984]LogContentValidation: Enabled validators:
+[2025.12.11-17.36.39:109][984]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.11-17.36.39:109][984]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.11-17.36.39:109][984]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.11-17.36.39:109][984]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.11-17.36.39:109][984]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.11-17.36.39:109][984]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.11-17.36.39:109][984]AssetCheck: /Game/MyStuff/BP_TriggerBox Validating asset
+[2025.12.11-17.36.39:130][984]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.11-17.36.39:616][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.12.11-17.37.30:344][116]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyStuff/BP_TriggerBox.BP_TriggerBox_C
+[2025.12.11-17.37.30:344][116]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyStuff/BP_TriggerBox.BP_TriggerBox_C
+[2025.12.11-17.37.30:344][116]LogActorFactory: Actor Factory spawned Blueprint /Game/MyStuff/BP_TriggerBox.BP_TriggerBox as actor: BP_TriggerBox_C /Game/MyStuff/Levels/Level1.Level1:PersistentLevel.BP_TriggerBox_C_0
+[2025.12.11-17.37.30:345][116]LogActorFactory: Actor Factory spawned Blueprint /Game/MyStuff/BP_TriggerBox.BP_TriggerBox as actor: BP_TriggerBox_C /Game/MyStuff/Levels/Level1.Level1:PersistentLevel.BP_TriggerBox_C_0
+[2025.12.11-17.37.30:356][117]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2025.12.11-17.37.30:644][140]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.12.11-17.37.30:653][140]LogEditorActor: Deleted 0 Actors (0.028 secs)
+[2025.12.11-17.37.30:658][140]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyStuff/BP_TriggerBox.BP_TriggerBox_C
+[2025.12.11-17.37.30:658][140]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyStuff/BP_TriggerBox.BP_TriggerBox_C
+[2025.12.11-17.37.30:660][140]LogActorFactory: Actor Factory spawned Blueprint /Game/MyStuff/BP_TriggerBox.BP_TriggerBox as actor: BP_TriggerBox_C /Game/MyStuff/Levels/Level1.Level1:PersistentLevel.BP_TriggerBox_C_1
+[2025.12.11-17.37.30:660][140]LogActorFactory: Actor Factory spawned Blueprint /Game/MyStuff/BP_TriggerBox.BP_TriggerBox as actor: BP_TriggerBox_C /Game/MyStuff/Levels/Level1.Level1:PersistentLevel.BP_TriggerBox_C_1
+[2025.12.11-17.37.33:557][471]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.11-17.37.33:619][471]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.12.11-17.37.33:626][471]LogSavePackage: Moving output files for package: /Game/MyStuff/Levels/Level1
+[2025.12.11-17.37.33:627][471]LogSavePackage: Moving '../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Saved/Level12E46AA4343BB54DD2E6B00841DD705C3.tmp' to '../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Content/MyStuff/Levels/Level1.umap'
+[2025.12.11-17.37.33:634][471]LogFileHelpers: Saving map 'Level1' took 0.045
+[2025.12.11-17.37.33:642][471]LogFileHelpers: InternalPromptForCheckoutAndSave took 85.403 ms (total: 398.237 ms)
+[2025.12.11-17.37.33:693][471]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.11-17.37.33:693][471]LogContentValidation: Enabled validators:
+[2025.12.11-17.37.33:693][471]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.11-17.37.33:693][471]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.11-17.37.33:693][471]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.11-17.37.33:693][471]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.11-17.37.33:693][471]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.11-17.37.33:693][471]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.11-17.37.33:693][471]AssetCheck: /Game/MyStuff/Levels/Level1 Validating asset
+[2025.12.11-17.39.12:412][184]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.11-17.39.12:497][184]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.12.11-17.39.12:505][184]LogSavePackage: Moving output files for package: /Game/MyStuff/Levels/Level1
+[2025.12.11-17.39.12:505][184]LogSavePackage: Moving '../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Saved/Level12C4D66E54518C16ADBCA4A84EA11B0E0.tmp' to '../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Content/MyStuff/Levels/Level1.umap'
+[2025.12.11-17.39.12:512][184]LogFileHelpers: Saving map 'Level1' took 0.049
+[2025.12.11-17.39.12:522][184]LogFileHelpers: InternalPromptForCheckoutAndSave took 108.815 ms (total: 507.052 ms)
+[2025.12.11-17.39.12:570][184]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.11-17.39.12:570][184]LogContentValidation: Enabled validators:
+[2025.12.11-17.39.12:570][184]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.11-17.39.12:570][184]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.11-17.39.12:570][184]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.11-17.39.12:570][184]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.11-17.39.12:570][184]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.11-17.39.12:570][184]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.11-17.39.12:570][184]AssetCheck: /Game/MyStuff/Levels/Level1 Validating asset
+[2025.12.11-17.39.27:169][347]LogSlate: Took 0.000260 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.12.11-17.41.37:855][377]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1055.031982
+[2025.12.11-17.41.37:940][384]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.11-17.41.37:940][384]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1055.103638, Update Interval: 310.102234
+[2025.12.11-17.41.40:004][560]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.11-17.41.40:035][560]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MyStuff/BP_TriggerBox] ([2] browsable assets)...
+[2025.12.11-17.41.40:035][560]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyStuff/BP_TriggerBox]
+[2025.12.11-17.41.40:035][560]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyStuff/BP_TriggerBox" FILE="../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Content/MyStuff/BP_TriggerBox.uasset" SILENT=true
+[2025.12.11-17.41.40:039][560]LogSavePackage: Moving output files for package: /Game/MyStuff/BP_TriggerBox
+[2025.12.11-17.41.40:039][560]LogSavePackage: Moving '../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Saved/BP_TriggerBox091373E5423DED44158EE49EA9B81082.tmp' to '../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Content/MyStuff/BP_TriggerBox.uasset'
+[2025.12.11-17.41.40:049][560]LogFileHelpers: InternalPromptForCheckoutAndSave took 45.061 ms (total: 552.113 ms)
+[2025.12.11-17.41.40:102][560]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.11-17.41.40:102][560]LogContentValidation: Enabled validators:
+[2025.12.11-17.41.40:102][560]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.11-17.41.40:102][560]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.11-17.41.40:102][560]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.11-17.41.40:102][560]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.11-17.41.40:102][560]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.11-17.41.40:102][560]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.11-17.41.40:102][560]AssetCheck: /Game/MyStuff/BP_TriggerBox Validating asset
+[2025.12.11-17.41.40:601][598]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.12.11-17.41.44:910][902]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyStuff/BP_PlayerPawn.BP_PlayerPawn
+[2025.12.11-17.41.44:911][902]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2025.12.11-17.41.57:921][761]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.11-17.41.57:953][761]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MyStuff/BP_PlayerPawn] ([2] browsable assets)...
+[2025.12.11-17.41.57:953][761]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyStuff/BP_PlayerPawn]
+[2025.12.11-17.41.57:953][761]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyStuff/BP_PlayerPawn" FILE="../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Content/MyStuff/BP_PlayerPawn.uasset" SILENT=true
+[2025.12.11-17.41.57:961][761]LogSavePackage: Moving output files for package: /Game/MyStuff/BP_PlayerPawn
+[2025.12.11-17.41.57:962][761]LogSavePackage: Moving '../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Saved/BP_PlayerPawn8C4250D6418AF60F26812182A4A24D0A.tmp' to '../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Content/MyStuff/BP_PlayerPawn.uasset'
+[2025.12.11-17.41.57:970][761]LogFileHelpers: InternalPromptForCheckoutAndSave took 49.312 ms (total: 601.426 ms)
+[2025.12.11-17.41.58:020][761]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.11-17.41.58:020][761]LogContentValidation: Enabled validators:
+[2025.12.11-17.41.58:020][761]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.11-17.41.58:020][761]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.11-17.41.58:020][761]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.11-17.41.58:020][761]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.11-17.41.58:020][761]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.11-17.41.58:020][761]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.11-17.41.58:020][761]AssetCheck: /Game/MyStuff/BP_PlayerPawn Validating asset
+[2025.12.11-17.42.01:049][ 23]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.11-17.42.01:055][ 23]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.11-17.42.01:055][ 23]LogPlayLevel: Creating play world package: /Game/MyStuff/Levels/UEDPIE_0_Level1
+[2025.12.11-17.42.01:057][ 23]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002044s)
+[2025.12.11-17.42.01:057][ 23]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyStuff/Levels/Level1.Level1 to /Game/MyStuff/Levels/UEDPIE_0_Level1.Level1 (0.002079s)
+[2025.12.11-17.42.01:088][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.12.11-17.42.01:089][ 23]LogChaosDD: Creating Chaos Debug Draw Scene for world Level1
+[2025.12.11-17.42.01:090][ 23]LogPlayLevel: PIE: World Init took: (0.001608s)
+[2025.12.11-17.42.01:092][ 23]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.12.11-17.42.01:092][ 23]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.11-17.42.01:092][ 23]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.11-17.42.01:092][ 23]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.11-17.42.01:092][ 23]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.11-17.42.01:092][ 23]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.11-17.42.01:092][ 23]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.11-17.42.01:092][ 23]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.11-17.42.01:092][ 23]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.11-17.42.01:092][ 23]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.11-17.42.01:092][ 23]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.11-17.42.01:092][ 23]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.11-17.42.01:094][ 23]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.11-17.42.01:116][ 23]LogAudioMixer: Display: Using Audio Hardware Device EB321HQU (NVIDIA High Definition Audio)
+[2025.12.11-17.42.01:116][ 23]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.11-17.42.01:116][ 23]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.11-17.42.01:116][ 23]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.11-17.42.01:116][ 23]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.12.11-17.42.01:116][ 23]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.12.11-17.42.01:118][ 23]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.12.11-17.42.01:118][ 23]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.12.11-17.42.01:118][ 23]LogInit: FAudioDevice initialized with ID 3.
+[2025.12.11-17.42.01:118][ 23]LogAudio: Display: Audio Device (ID: 3) registered with world 'Level1'.
+[2025.12.11-17.42.01:118][ 23]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.12.11-17.42.01:122][ 23]LogLoad: Game class is 'BP_MyGameMode_C'
+[2025.12.11-17.42.01:123][ 23]LogWorld: Bringing World /Game/MyStuff/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2025.12.11-12.42.01
+[2025.12.11-17.42.01:123][ 23]LogWorld: Bringing up level for play took: 0.000742
+[2025.12.11-17.42.01:125][ 23]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2025.12.11-17.42.01:127][ 23]PIE: Server logged in
+[2025.12.11-17.42.01:129][ 23]PIE: Play in editor total start time 0.073 seconds.
+[2025.12.11-17.42.01:154][ 24]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.12.11-17.42.07:050][719]LogSlate: Took 0.000236 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.12.11-17.42.23:754][710]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.11-17.42.23:754][710]LogWorld: BeginTearingDown for /Game/MyStuff/Levels/UEDPIE_0_Level1
+[2025.12.11-17.42.23:755][710]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2025.12.11-17.42.23:755][710]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.11-17.42.23:758][710]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.11-17.42.23:761][710]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.11-17.42.23:784][710]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.11-17.42.23:784][710]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.12.11-17.42.23:784][710]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=4
+[2025.12.11-17.42.23:786][710]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=2
+[2025.12.11-17.42.23:792][710]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.12.11-17.42.23:843][711]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2025.12.11-17.42.23:863][711]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.12.11-17.45.02:339][731]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.11-17.45.02:372][731]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MyStuff/BP_TriggerBox] ([2] browsable assets)...
+[2025.12.11-17.45.02:372][731]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyStuff/BP_TriggerBox]
+[2025.12.11-17.45.02:372][731]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyStuff/BP_TriggerBox" FILE="../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Content/MyStuff/BP_TriggerBox.uasset" SILENT=true
+[2025.12.11-17.45.02:376][731]LogSavePackage: Moving output files for package: /Game/MyStuff/BP_TriggerBox
+[2025.12.11-17.45.02:376][731]LogSavePackage: Moving '../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Saved/BP_TriggerBox1B7231F14944C532E389EDB2F99D7990.tmp' to '../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Content/MyStuff/BP_TriggerBox.uasset'
+[2025.12.11-17.45.02:384][731]LogFileHelpers: InternalPromptForCheckoutAndSave took 44.887 ms (total: 646.313 ms)
+[2025.12.11-17.45.02:427][731]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.11-17.45.02:427][731]LogContentValidation: Enabled validators:
+[2025.12.11-17.45.02:427][731]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.11-17.45.02:427][731]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.11-17.45.02:427][731]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.11-17.45.02:427][731]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.11-17.45.02:427][731]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.11-17.45.02:427][731]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.11-17.45.02:428][731]AssetCheck: /Game/MyStuff/BP_TriggerBox Validating asset
+[2025.12.11-17.45.02:773][759]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.12.11-17.45.05:680][ 64]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.11-17.45.05:686][ 64]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.11-17.45.05:709][ 64]LogPlayLevel: Creating play world package: /Game/MyStuff/Levels/UEDPIE_0_Level1
+[2025.12.11-17.45.05:711][ 64]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001855s)
+[2025.12.11-17.45.05:711][ 64]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyStuff/Levels/Level1.Level1 to /Game/MyStuff/Levels/UEDPIE_0_Level1.Level1 (0.001895s)
+[2025.12.11-17.45.05:729][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.12.11-17.45.05:732][ 64]LogChaosDD: Creating Chaos Debug Draw Scene for world Level1
+[2025.12.11-17.45.05:733][ 64]LogPlayLevel: PIE: World Init took: (0.001767s)
+[2025.12.11-17.45.05:734][ 64]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.12.11-17.45.05:734][ 64]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.11-17.45.05:734][ 64]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.11-17.45.05:734][ 64]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.11-17.45.05:734][ 64]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.11-17.45.05:734][ 64]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.11-17.45.05:734][ 64]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.11-17.45.05:734][ 64]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.11-17.45.05:734][ 64]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.11-17.45.05:734][ 64]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.11-17.45.05:734][ 64]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.11-17.45.05:734][ 64]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.11-17.45.05:736][ 64]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.11-17.45.05:756][ 64]LogAudioMixer: Display: Using Audio Hardware Device EB321HQU (NVIDIA High Definition Audio)
+[2025.12.11-17.45.05:756][ 64]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.11-17.45.05:756][ 64]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.11-17.45.05:756][ 64]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.11-17.45.05:757][ 64]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.12.11-17.45.05:757][ 64]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2025.12.11-17.45.05:759][ 64]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.12.11-17.45.05:759][ 64]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.12.11-17.45.05:759][ 64]LogInit: FAudioDevice initialized with ID 4.
+[2025.12.11-17.45.05:759][ 64]LogAudio: Display: Audio Device (ID: 4) registered with world 'Level1'.
+[2025.12.11-17.45.05:759][ 64]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2025.12.11-17.45.05:762][ 64]LogLoad: Game class is 'BP_MyGameMode_C'
+[2025.12.11-17.45.05:763][ 64]LogWorld: Bringing World /Game/MyStuff/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2025.12.11-12.45.05
+[2025.12.11-17.45.05:763][ 64]LogWorld: Bringing up level for play took: 0.000738
+[2025.12.11-17.45.05:765][ 64]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2025.12.11-17.45.05:767][ 64]PIE: Server logged in
+[2025.12.11-17.45.05:768][ 64]PIE: Play in editor total start time 0.084 seconds.
+[2025.12.11-17.45.05:794][ 65]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.12.11-17.45.10:944][673]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/MyStuff/Levels/Level1"
+[2025.12.11-17.45.10:944][673]LogNet: Browse: /Game/MyStuff/Levels/Level1
+[2025.12.11-17.45.10:944][673]LogLoad: LoadMap: /Game/MyStuff/Levels/Level1
+[2025.12.11-17.45.10:944][673]LogWorld: BeginTearingDown for /Game/MyStuff/Levels/UEDPIE_0_Level1
+[2025.12.11-17.45.10:945][673]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2025.12.11-17.45.10:945][673]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.11-17.45.10:996][673]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.11-17.45.10:997][673]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.12.11-17.45.11:001][673]LogPlayLevel: Creating play world package: /Game/MyStuff/Levels/UEDPIE_0_Level1
+[2025.12.11-17.45.11:003][673]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002059s)
+[2025.12.11-17.45.11:003][673]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyStuff/Levels/Level1.Level1 to /Game/MyStuff/Levels/UEDPIE_0_Level1.Level1 (0.002105s)
+[2025.12.11-17.45.11:003][673]LogAudio: Display: Audio Device (ID: 4) registered with world 'Level1'.
+[2025.12.11-17.45.11:003][673]LogChaosDD: Creating Chaos Debug Draw Scene for world Level1
+[2025.12.11-17.45.11:004][673]LogPlayLevel: PIE: World Init took: (0.001279s)
+[2025.12.11-17.45.11:004][673]LogLoad: Game class is 'BP_MyGameMode_C'
+[2025.12.11-17.45.11:004][673]LogWorld: Bringing World /Game/MyStuff/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2025.12.11-12.45.11
+[2025.12.11-17.45.11:005][673]LogWorld: Bringing up level for play took: 0.000551
+[2025.12.11-17.45.11:006][673]LogLoad: Took 0.061183 seconds to LoadMap(/Game/MyStuff/Levels/UEDPIE_0_Level1)
+[2025.12.11-17.45.11:006][673]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/MyStuff/Levels/UEDPIE_0_Level1
+[2025.12.11-17.45.11:009][673]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.12.11-17.45.12:690][868]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.11-17.45.12:690][868]LogWorld: BeginTearingDown for /Game/MyStuff/Levels/UEDPIE_0_Level1
+[2025.12.11-17.45.12:690][868]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2025.12.11-17.45.12:690][868]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.11-17.45.12:692][868]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.11-17.45.12:696][868]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.11-17.45.12:717][868]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.11-17.45.12:717][868]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.12.11-17.45.12:717][868]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=4
+[2025.12.11-17.45.12:719][868]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=2
+[2025.12.11-17.45.12:724][868]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.12.11-17.45.12:820][870]LogPlayLevel: Display: Destroying online subsystem :Context_10
