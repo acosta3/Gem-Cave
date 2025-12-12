@@ -1503,3 +1503,1070 @@ LogConfig: Set CVar [[r.Nanite.Streaming.ReservedResources:1]]
 [2025.12.12-00.05.01:335][842]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
 		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
 		NumGeometrySegments changed: current: 0 - new: 512
+[2025.12.12-00.05.50:688][623]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.12.12-00.05.50:694][623]LogContentBrowser: Creating deferred item: NewFolder
+[2025.12.12-00.05.50:702][624]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.12.12-00.05.57:264][407]LogContentBrowser: Attempting asset rename: NewFolder -> Blueprints
+[2025.12.12-00.05.57:264][407]LogContentBrowser: End creating deferred item NewFolder
+[2025.12.12-00.06.01:756][883]LogStreaming: Display: FlushAsyncLoading(531): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.12-00.06.01:795][883]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2025.12.12-00.06.01:912][887]LogRenderer: Using fallback RTPSO
+[2025.12.12-00.06.04:236][110]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.12-00.06.04:236][110]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MyStuff/Blueprints/BP_Crystal] ([2] browsable assets)...
+[2025.12.12-00.06.04:236][110]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyStuff/Blueprints/BP_Crystal]
+[2025.12.12-00.06.04:236][110]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyStuff/Blueprints/BP_Crystal" FILE="../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Content/MyStuff/Blueprints/BP_Crystal.uasset" SILENT=true
+[2025.12.12-00.06.04:238][110]LogSavePackage: Moving output files for package: /Game/MyStuff/Blueprints/BP_Crystal
+[2025.12.12-00.06.04:239][110]LogSavePackage: Moving '../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Saved/BP_CrystalF0D38C454ACDD3BC5C2034A49554EA67.tmp' to '../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Content/MyStuff/Blueprints/BP_Crystal.uasset'
+[2025.12.12-00.06.04:241][110]LogFileHelpers: InternalPromptForCheckoutAndSave took 5.418 ms (total: 399.097 ms)
+[2025.12.12-00.06.04:287][110]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.12.12-00.06.04:311][110]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.12.12-00.06.04:334][110]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.12.12-00.06.04:360][110]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.12-00.06.04:360][110]LogContentValidation: Enabled validators:
+[2025.12.12-00.06.04:360][110]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.12-00.06.04:360][110]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.12-00.06.04:360][110]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.12-00.06.04:360][110]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.12-00.06.04:360][110]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.12-00.06.04:360][110]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.12-00.06.04:360][110]AssetCheck: /Game/MyStuff/Blueprints/BP_Crystal Validating asset
+[2025.12.12-00.06.04:370][110]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.12-00.06.07:198][397]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.12-00.06.07:198][397]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MyStuff/Blueprints/BP_TriggerBox] ([2] browsable assets)...
+[2025.12.12-00.06.07:198][397]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyStuff/Blueprints/BP_TriggerBox]
+[2025.12.12-00.06.07:202][397]LogSavePackage: Moving output files for package: /Game/MyStuff/Blueprints/BP_TriggerBox
+[2025.12.12-00.06.07:202][397]LogSavePackage: Moving '../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Saved/BP_TriggerBox93A7DF304F695F6C0C424FAA15A3FA78.tmp' to '../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Content/MyStuff/Blueprints/BP_TriggerBox.uasset'
+[2025.12.12-00.06.07:205][397]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MyStuff/BP_TriggerBox] ([5] browsable assets)...
+[2025.12.12-00.06.07:206][397]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyStuff/BP_TriggerBox]
+[2025.12.12-00.06.07:206][397]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyStuff/BP_TriggerBox" FILE="../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Content/MyStuff/BP_TriggerBox.uasset" SILENT=true
+[2025.12.12-00.06.07:206][397]LogSavePackage: Moving output files for package: /Game/MyStuff/BP_TriggerBox
+[2025.12.12-00.06.07:206][397]LogSavePackage: Moving '../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Saved/BP_TriggerBoxFF4AC061438944AB2EFD3E8EA8DB8683.tmp' to '../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Content/MyStuff/BP_TriggerBox.uasset'
+[2025.12.12-00.06.07:208][397]LogFileHelpers: InternalPromptForCheckoutAndSave took 10.140 ms (total: 409.237 ms)
+[2025.12.12-00.06.07:231][397]LogContentValidation: Display: Starting to validate 4 assets
+[2025.12.12-00.06.07:231][397]LogContentValidation: Enabled validators:
+[2025.12.12-00.06.07:231][397]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.12-00.06.07:231][397]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.12-00.06.07:231][397]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.12-00.06.07:231][397]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.12-00.06.07:231][397]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.12-00.06.07:231][397]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.12-00.06.07:232][397]AssetCheck: /Game/MyStuff/Blueprints/BP_TriggerBox Validating asset
+[2025.12.12-00.06.07:232][397]AssetCheck: /Game/MyStuff/BP_TriggerBox Validating asset
+[2025.12.12-00.06.07:232][397]AssetCheck: /Game/MyStuff/BP_TriggerBox Validating asset
+[2025.12.12-00.06.07:232][397]AssetCheck: /Game/MyStuff/BP_TriggerBox Validating asset
+[2025.12.12-00.06.07:250][397]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.12-00.06.10:312][737]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.12.12-00.06.10:319][737]LogContentBrowser: Creating deferred item: NewFolder
+[2025.12.12-00.06.10:327][738]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.12.12-00.06.13:031][ 59]LogContentBrowser: Attempting asset rename: NewFolder -> Mesh
+[2025.12.12-00.06.13:032][ 59]LogContentBrowser: End creating deferred item NewFolder
+[2025.12.12-00.06.17:814][496]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.12-00.06.17:814][496]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MyStuff/Mesh/Box_2DFE2E0C] ([1] browsable assets)...
+[2025.12.12-00.06.17:814][496]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyStuff/Mesh/Box_2DFE2E0C]
+[2025.12.12-00.06.17:814][496]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyStuff/Mesh/Box_2DFE2E0C" FILE="../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Content/MyStuff/Mesh/Box_2DFE2E0C.uasset" SILENT=true
+[2025.12.12-00.06.17:816][496]LogSavePackage: Moving output files for package: /Game/MyStuff/Mesh/Box_2DFE2E0C
+[2025.12.12-00.06.17:816][496]LogSavePackage: Moving '../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Saved/Box_2DFE2E0C19865B01494F520321BD559929489C2E.tmp' to '../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Content/MyStuff/Mesh/Box_2DFE2E0C.uasset'
+[2025.12.12-00.06.17:817][496]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MyStuff/Box_2DFE2E0C] ([1] browsable assets)...
+[2025.12.12-00.06.17:817][496]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyStuff/Box_2DFE2E0C]
+[2025.12.12-00.06.17:817][496]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyStuff/Box_2DFE2E0C" FILE="../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Content/MyStuff/Box_2DFE2E0C.uasset" SILENT=true
+[2025.12.12-00.06.17:818][496]LogSavePackage: Moving output files for package: /Game/MyStuff/Box_2DFE2E0C
+[2025.12.12-00.06.17:818][496]LogSavePackage: Moving '../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Saved/Box_2DFE2E0C24316113472D814DA257FC944DB4D7E5.tmp' to '../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Content/MyStuff/Box_2DFE2E0C.uasset'
+[2025.12.12-00.06.17:819][496]LogFileHelpers: InternalPromptForCheckoutAndSave took 4.812 ms (total: 414.049 ms)
+[2025.12.12-00.06.17:841][496]LogContentValidation: Display: Starting to validate 2 assets
+[2025.12.12-00.06.17:841][496]LogContentValidation: Enabled validators:
+[2025.12.12-00.06.17:841][496]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.12-00.06.17:841][496]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.12-00.06.17:841][496]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.12-00.06.17:841][496]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.12-00.06.17:841][496]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.12-00.06.17:841][496]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.12-00.06.17:842][496]AssetCheck: /Game/MyStuff/Mesh/Box_2DFE2E0C Validating asset
+[2025.12.12-00.06.17:842][496]AssetCheck: /Game/MyStuff/Box_2DFE2E0C Validating asset
+[2025.12.12-00.06.17:848][496]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.12-00.06.19:868][679]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.12-00.06.19:869][679]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MyStuff/Mesh/Box_84F91511] ([1] browsable assets)...
+[2025.12.12-00.06.19:869][679]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyStuff/Mesh/Box_84F91511]
+[2025.12.12-00.06.19:869][679]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyStuff/Mesh/Box_84F91511" FILE="../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Content/MyStuff/Mesh/Box_84F91511.uasset" SILENT=true
+[2025.12.12-00.06.19:870][679]LogSavePackage: Moving output files for package: /Game/MyStuff/Mesh/Box_84F91511
+[2025.12.12-00.06.19:870][679]LogSavePackage: Moving '../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Saved/Box_84F915118E11BBD440AF8D48F830689A45146491.tmp' to '../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Content/MyStuff/Mesh/Box_84F91511.uasset'
+[2025.12.12-00.06.19:871][679]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MyStuff/Box_84F91511] ([1] browsable assets)...
+[2025.12.12-00.06.19:871][679]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyStuff/Box_84F91511]
+[2025.12.12-00.06.19:871][679]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyStuff/Box_84F91511" FILE="../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Content/MyStuff/Box_84F91511.uasset" SILENT=true
+[2025.12.12-00.06.19:872][679]LogSavePackage: Moving output files for package: /Game/MyStuff/Box_84F91511
+[2025.12.12-00.06.19:872][679]LogSavePackage: Moving '../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Saved/Box_84F9151192CB3FB648B711067182B0A319642F08.tmp' to '../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Content/MyStuff/Box_84F91511.uasset'
+[2025.12.12-00.06.19:873][679]LogFileHelpers: InternalPromptForCheckoutAndSave took 4.616 ms (total: 418.666 ms)
+[2025.12.12-00.06.19:894][679]LogContentValidation: Display: Starting to validate 2 assets
+[2025.12.12-00.06.19:894][679]LogContentValidation: Enabled validators:
+[2025.12.12-00.06.19:894][679]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.12-00.06.19:894][679]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.12-00.06.19:894][679]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.12-00.06.19:894][679]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.12-00.06.19:895][679]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.12-00.06.19:895][679]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.12-00.06.19:895][679]AssetCheck: /Game/MyStuff/Mesh/Box_84F91511 Validating asset
+[2025.12.12-00.06.19:895][679]AssetCheck: /Game/MyStuff/Box_84F91511 Validating asset
+[2025.12.12-00.06.19:916][679]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.12-00.06.22:494][924]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.12-00.06.22:494][924]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MyStuff/BP_MyGameMode] ([2] browsable assets)...
+[2025.12.12-00.06.22:494][924]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyStuff/BP_MyGameMode]
+[2025.12.12-00.06.22:494][924]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyStuff/BP_MyGameMode" FILE="../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Content/MyStuff/BP_MyGameMode.uasset" SILENT=true
+[2025.12.12-00.06.22:496][924]LogSavePackage: Moving output files for package: /Game/MyStuff/BP_MyGameMode
+[2025.12.12-00.06.22:497][924]LogSavePackage: Moving '../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Saved/BP_MyGameModeFB35C5644E1ED92671ADCDB809AD1210.tmp' to '../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Content/MyStuff/BP_MyGameMode.uasset'
+[2025.12.12-00.06.22:498][924]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MyStuff/Blueprints/BP_PlayerPawn] ([2] browsable assets)...
+[2025.12.12-00.06.22:498][924]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyStuff/Blueprints/BP_PlayerPawn]
+[2025.12.12-00.06.22:505][924]LogSavePackage: Moving output files for package: /Game/MyStuff/Blueprints/BP_PlayerPawn
+[2025.12.12-00.06.22:505][924]LogSavePackage: Moving '../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Saved/BP_PlayerPawn975F88A64DFC8B1B8F37578F920417E2.tmp' to '../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Content/MyStuff/Blueprints/BP_PlayerPawn.uasset'
+[2025.12.12-00.06.22:508][924]LogFileHelpers: InternalPromptForCheckoutAndSave took 13.278 ms (total: 431.945 ms)
+[2025.12.12-00.06.22:609][924]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.12.12-00.06.22:640][924]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.12.12-00.06.22:661][924]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.12.12-00.06.22:688][924]LogContentValidation: Display: Starting to validate 2 assets
+[2025.12.12-00.06.22:688][924]LogContentValidation: Enabled validators:
+[2025.12.12-00.06.22:688][924]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.12-00.06.22:688][924]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.12-00.06.22:688][924]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.12-00.06.22:688][924]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.12-00.06.22:688][924]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.12-00.06.22:688][924]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.12-00.06.22:689][924]AssetCheck: /Game/MyStuff/BP_MyGameMode Validating asset
+[2025.12.12-00.06.22:689][924]AssetCheck: /Game/MyStuff/Blueprints/BP_PlayerPawn Validating asset
+[2025.12.12-00.06.22:694][924]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.12-00.06.29:152][224]LogSlate: Window 'Message' being destroyed
+[2025.12.12-00.06.29:162][224]Message dialog closed, result: Ok, title: Message, text: Source code, config INI, and text files may need Find/Replace for:
+
+
+BP_MyGameMode
+
+Otherwise assets can be missing from cooked builds. Continue with rename?
+[2025.12.12-00.06.29:179][224]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.12-00.06.29:179][224]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MyStuff/Blueprints/BP_MyGameMode] ([2] browsable assets)...
+[2025.12.12-00.06.29:179][224]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyStuff/Blueprints/BP_MyGameMode]
+[2025.12.12-00.06.29:181][224]LogSavePackage: Moving output files for package: /Game/MyStuff/Blueprints/BP_MyGameMode
+[2025.12.12-00.06.29:181][224]LogSavePackage: Moving '../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Saved/BP_MyGameModeC5285F464ADA2C33ACE4C6AE706B5E04.tmp' to '../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Content/MyStuff/Blueprints/BP_MyGameMode.uasset'
+[2025.12.12-00.06.29:183][224]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MyStuff/BP_MyGameMode] ([5] browsable assets)...
+[2025.12.12-00.06.29:183][224]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyStuff/BP_MyGameMode]
+[2025.12.12-00.06.29:183][224]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyStuff/BP_MyGameMode" FILE="../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Content/MyStuff/BP_MyGameMode.uasset" SILENT=true
+[2025.12.12-00.06.29:184][224]LogSavePackage: Moving output files for package: /Game/MyStuff/BP_MyGameMode
+[2025.12.12-00.06.29:184][224]LogSavePackage: Moving '../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Saved/BP_MyGameModeB9C0104149F5FE4401D860AB2385F1EA.tmp' to '../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Content/MyStuff/BP_MyGameMode.uasset'
+[2025.12.12-00.06.29:186][224]LogFileHelpers: InternalPromptForCheckoutAndSave took 7.444 ms (total: 439.389 ms)
+[2025.12.12-00.06.29:205][224]LogContentValidation: Display: Starting to validate 4 assets
+[2025.12.12-00.06.29:205][224]LogContentValidation: Enabled validators:
+[2025.12.12-00.06.29:205][224]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.12-00.06.29:205][224]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.12-00.06.29:205][224]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.12-00.06.29:205][224]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.12-00.06.29:205][224]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.12-00.06.29:205][224]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.12-00.06.29:206][224]AssetCheck: /Game/MyStuff/Blueprints/BP_MyGameMode Validating asset
+[2025.12.12-00.06.29:206][224]AssetCheck: /Game/MyStuff/BP_MyGameMode Validating asset
+[2025.12.12-00.06.29:206][224]AssetCheck: /Game/MyStuff/BP_MyGameMode Validating asset
+[2025.12.12-00.06.29:206][224]AssetCheck: /Game/MyStuff/BP_MyGameMode Validating asset
+[2025.12.12-00.06.29:212][224]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.12-00.06.31:626][480]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.12.12-00.06.31:632][480]LogContentBrowser: Creating deferred item: NewFolder
+[2025.12.12-00.06.31:640][481]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.12.12-00.06.38:443][294]LogContentBrowser: Attempting asset rename: NewFolder -> Input
+[2025.12.12-00.06.38:443][294]LogContentBrowser: End creating deferred item NewFolder
+[2025.12.12-00.06.48:614][279]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.12-00.06.48:614][279]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MyStuff/IMC_Default] ([1] browsable assets)...
+[2025.12.12-00.06.48:614][279]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyStuff/IMC_Default]
+[2025.12.12-00.06.48:614][279]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyStuff/IMC_Default" FILE="../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Content/MyStuff/IMC_Default.uasset" SILENT=true
+[2025.12.12-00.06.48:615][279]LogSavePackage: Moving output files for package: /Game/MyStuff/IMC_Default
+[2025.12.12-00.06.48:615][279]LogSavePackage: Moving '../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Saved/IMC_Default93C27C3F45B6F24BBC51AC91517F1C86.tmp' to '../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Content/MyStuff/IMC_Default.uasset'
+[2025.12.12-00.06.48:616][279]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/MyStuff/Blueprints/BP_PlayerPawn] ([2] browsable assets)...
+[2025.12.12-00.06.48:667][279]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/MyStuff/Blueprints/BP_PlayerPawn.BP_PlayerPawn]
+[2025.12.12-00.06.48:667][279]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyStuff/Blueprints/BP_PlayerPawn]
+[2025.12.12-00.06.48:676][279]LogSavePackage: Moving output files for package: /Game/MyStuff/Blueprints/BP_PlayerPawn
+[2025.12.12-00.06.48:677][279]LogSavePackage: Moving '../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Saved/BP_PlayerPawn3204AE334298CD14D4DC2885BA1FD68E.tmp' to '../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Content/MyStuff/Blueprints/BP_PlayerPawn.uasset'
+[2025.12.12-00.06.48:677][279]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MyStuff/Input/IA_ForwardsBackwards] ([1] browsable assets)...
+[2025.12.12-00.06.48:677][279]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyStuff/Input/IA_ForwardsBackwards]
+[2025.12.12-00.06.48:678][279]LogSavePackage: Moving output files for package: /Game/MyStuff/Input/IA_ForwardsBackwards
+[2025.12.12-00.06.48:678][279]LogSavePackage: Moving '../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Saved/IA_ForwardsBackwardsB53326EC48FCE50C7535689678F32B67.tmp' to '../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Content/MyStuff/Input/IA_ForwardsBackwards.uasset'
+[2025.12.12-00.06.48:679][279]LogFileHelpers: InternalPromptForCheckoutAndSave took 65.141 ms (total: 504.531 ms)
+[2025.12.12-00.06.48:727][279]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.12.12-00.06.48:748][279]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.12.12-00.06.48:772][279]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.12.12-00.06.48:798][279]LogContentValidation: Display: Starting to validate 3 assets
+[2025.12.12-00.06.48:798][279]LogContentValidation: Enabled validators:
+[2025.12.12-00.06.48:798][279]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.12-00.06.48:798][279]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.12-00.06.48:798][279]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.12-00.06.48:798][279]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.12-00.06.48:798][279]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.12-00.06.48:798][279]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.12-00.06.48:798][279]AssetCheck: /Game/MyStuff/IMC_Default Validating asset
+[2025.12.12-00.06.48:798][279]AssetCheck: /Game/MyStuff/Blueprints/BP_PlayerPawn Validating asset
+[2025.12.12-00.06.48:798][279]AssetCheck: /Game/MyStuff/Input/IA_ForwardsBackwards Validating asset
+[2025.12.12-00.06.48:805][279]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.12-00.06.51:503][543]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.12-00.06.51:503][543]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MyStuff/IMC_Default] ([1] browsable assets)...
+[2025.12.12-00.06.51:503][543]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyStuff/IMC_Default]
+[2025.12.12-00.06.51:503][543]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyStuff/IMC_Default" FILE="../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Content/MyStuff/IMC_Default.uasset" SILENT=true
+[2025.12.12-00.06.51:504][543]LogSavePackage: Moving output files for package: /Game/MyStuff/IMC_Default
+[2025.12.12-00.06.51:504][543]LogSavePackage: Moving '../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Saved/IMC_DefaultBC14C61742ACAB117FF4DBA6A384621F.tmp' to '../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Content/MyStuff/IMC_Default.uasset'
+[2025.12.12-00.06.51:505][543]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/MyStuff/Blueprints/BP_PlayerPawn] ([2] browsable assets)...
+[2025.12.12-00.06.51:551][543]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/MyStuff/Blueprints/BP_PlayerPawn.BP_PlayerPawn]
+[2025.12.12-00.06.51:551][543]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyStuff/Blueprints/BP_PlayerPawn]
+[2025.12.12-00.06.51:559][543]LogSavePackage: Moving output files for package: /Game/MyStuff/Blueprints/BP_PlayerPawn
+[2025.12.12-00.06.51:559][543]LogSavePackage: Moving '../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Saved/BP_PlayerPawn8641478244F6402B845AD0AAA21E5F3A.tmp' to '../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Content/MyStuff/Blueprints/BP_PlayerPawn.uasset'
+[2025.12.12-00.06.51:560][543]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MyStuff/Input/IA_Turn] ([1] browsable assets)...
+[2025.12.12-00.06.51:560][543]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyStuff/Input/IA_Turn]
+[2025.12.12-00.06.51:560][543]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyStuff/Input/IA_Turn" FILE="../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Content/MyStuff/Input/IA_Turn.uasset" SILENT=true
+[2025.12.12-00.06.51:561][543]LogSavePackage: Moving output files for package: /Game/MyStuff/Input/IA_Turn
+[2025.12.12-00.06.51:561][543]LogSavePackage: Moving '../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Saved/IA_Turn94B513ED44CE094C388C13A58408613F.tmp' to '../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Content/MyStuff/Input/IA_Turn.uasset'
+[2025.12.12-00.06.51:562][543]LogFileHelpers: InternalPromptForCheckoutAndSave took 59.925 ms (total: 564.457 ms)
+[2025.12.12-00.06.51:606][543]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.12.12-00.06.51:630][543]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.12.12-00.06.51:653][543]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2025.12.12-00.06.51:682][543]LogContentValidation: Display: Starting to validate 3 assets
+[2025.12.12-00.06.51:682][543]LogContentValidation: Enabled validators:
+[2025.12.12-00.06.51:682][543]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.12-00.06.51:682][543]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.12-00.06.51:682][543]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.12-00.06.51:682][543]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.12-00.06.51:682][543]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.12-00.06.51:682][543]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.12-00.06.51:682][543]AssetCheck: /Game/MyStuff/IMC_Default Validating asset
+[2025.12.12-00.06.51:682][543]AssetCheck: /Game/MyStuff/Blueprints/BP_PlayerPawn Validating asset
+[2025.12.12-00.06.51:682][543]AssetCheck: /Game/MyStuff/Input/IA_Turn Validating asset
+[2025.12.12-00.06.51:689][543]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.12-00.06.52:689][646]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 686.351807
+[2025.12.12-00.06.52:757][654]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.12-00.06.52:757][654]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 686.410461, Update Interval: 320.323486
+[2025.12.12-00.06.53:768][744]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.12-00.06.53:768][744]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/MyStuff/Blueprints/BP_PlayerPawn] ([2] browsable assets)...
+[2025.12.12-00.06.53:816][744]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/MyStuff/Blueprints/BP_PlayerPawn.BP_PlayerPawn]
+[2025.12.12-00.06.53:816][744]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyStuff/Blueprints/BP_PlayerPawn]
+[2025.12.12-00.06.53:823][744]LogSavePackage: Moving output files for package: /Game/MyStuff/Blueprints/BP_PlayerPawn
+[2025.12.12-00.06.53:824][744]LogSavePackage: Moving '../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Saved/BP_PlayerPawnE7AF970846BF9AC508DEF4BD1C54B6AF.tmp' to '../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Content/MyStuff/Blueprints/BP_PlayerPawn.uasset'
+[2025.12.12-00.06.53:825][744]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MyStuff/Input/IMC_Default] ([1] browsable assets)...
+[2025.12.12-00.06.53:825][744]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyStuff/Input/IMC_Default]
+[2025.12.12-00.06.53:825][744]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyStuff/Input/IMC_Default" FILE="../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Content/MyStuff/Input/IMC_Default.uasset" SILENT=true
+[2025.12.12-00.06.53:825][744]LogSavePackage: Moving output files for package: /Game/MyStuff/Input/IMC_Default
+[2025.12.12-00.06.53:825][744]LogSavePackage: Moving '../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Saved/IMC_DefaultC40E199C498282FEF8940493A78D0895.tmp' to '../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Content/MyStuff/Input/IMC_Default.uasset'
+[2025.12.12-00.06.53:826][744]LogFileHelpers: InternalPromptForCheckoutAndSave took 58.589 ms (total: 623.046 ms)
+[2025.12.12-00.06.53:864][744]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.12.12-00.06.53:885][744]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.12.12-00.06.53:905][744]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.12.12-00.06.53:930][744]LogContentValidation: Display: Starting to validate 2 assets
+[2025.12.12-00.06.53:930][744]LogContentValidation: Enabled validators:
+[2025.12.12-00.06.53:930][744]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.12-00.06.53:930][744]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.12-00.06.53:930][744]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.12-00.06.53:930][744]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.12-00.06.53:930][744]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.12-00.06.53:930][744]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.12-00.06.53:930][744]AssetCheck: /Game/MyStuff/Blueprints/BP_PlayerPawn Validating asset
+[2025.12.12-00.06.53:930][744]AssetCheck: /Game/MyStuff/Input/IMC_Default Validating asset
+[2025.12.12-00.06.53:936][744]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.12-00.07.02:916][775]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.12.12-00.07.02:923][775]LogContentBrowser: Creating deferred item: NewFolder
+[2025.12.12-00.07.02:931][776]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.12.12-00.07.06:067][149]LogContentBrowser: Attempting asset rename: NewFolder -> Material
+[2025.12.12-00.07.06:068][149]LogContentBrowser: End creating deferred item NewFolder
+[2025.12.12-00.07.09:512][520]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2025.12.12-00.07.09:518][520]LogContentBrowser: Creating deferred item: NewMaterial
+[2025.12.12-00.07.09:545][522]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2025.12.12-00.07.20:038][777]LogContentBrowser: Attempting asset rename: NewMaterial -> M_Crystal
+[2025.12.12-00.07.20:039][777]LogContentBrowser: End creating deferred item NewMaterial
+[2025.12.12-00.07.20:043][777]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2025.12.12-00.07.21:610][944]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/MyStuff/Material/M_Crystal.M_Crystal
+[2025.12.12-00.07.21:624][944]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2025.12.12-00.07.21:629][944]LogStreaming: Display: FlushAsyncLoading(532): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.12-00.07.21:995][944]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.12-00.07.21:995][944]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.12.12-00.07.21:995][944]MaterialEditorStats: Shader Count: 0
+[2025.12.12-00.07.21:995][944]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.12-00.07.22:083][946]MaterialEditorStats: Base pass shader: 171 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.12.12-00.07.22:083][946]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.12-00.07.22:083][946]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.12-00.07.22:083][946]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.12.12-00.07.22:083][946]MaterialEditorStats: Shader Count: 5
+[2025.12.12-00.07.22:083][946]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.12-00.07.22:102][947]LogRenderer: Using fallback RTPSO
+[2025.12.12-00.07.22:157][952]LogD3D12RHI: Creating RTPSO with 34 shaders (0 cached, 3 new) took 54.96 ms. Compile time 52.52 ms, link time 2.42 ms.
+[2025.12.12-00.09.52:586][926]LogRenderer: Using fallback RTPSO
+[2025.12.12-00.09.54:873][170]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.12-00.09.54:873][170]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.12.12-00.09.54:873][170]MaterialEditorStats: Shader Count: 0
+[2025.12.12-00.09.54:873][170]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.12-00.09.54:917][172]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.12-00.09.54:917][172]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.12-00.09.54:917][172]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.12.12-00.09.54:917][172]MaterialEditorStats: Shader Count: 2
+[2025.12.12-00.09.54:917][172]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.12-00.09.55:471][229]MaterialEditorStats: Base pass shader: 173 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.12.12-00.09.55:471][229]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.12-00.09.55:471][229]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.12-00.09.55:471][229]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.12.12-00.09.55:471][229]MaterialEditorStats: Shader Count: 4
+[2025.12.12-00.09.55:471][229]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.12-00.10.14:739][324]LogRenderer: Using fallback RTPSO
+[2025.12.12-00.10.14:810][332]LogD3D12RHI: Creating RTPSO with 34 shaders (0 cached, 1 new) took 71.33 ms. Compile time 69.62 ms, link time 1.70 ms.
+[2025.12.12-00.10.20:459][964]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.12-00.10.20:460][964]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.12.12-00.10.20:460][964]MaterialEditorStats: Shader Count: 0
+[2025.12.12-00.10.20:460][964]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.12-00.10.20:538][967]MaterialEditorStats: Base pass shader: 173 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.12.12-00.10.20:538][967]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.12-00.10.20:538][967]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.12-00.10.20:538][967]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.12.12-00.10.20:538][967]MaterialEditorStats: Shader Count: 5
+[2025.12.12-00.10.20:538][967]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.12-00.10.21:312][ 50]LogSlate: Window 'Color Picker' being destroyed
+[2025.12.12-00.10.25:466][471]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.12-00.10.25:466][471]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.12.12-00.10.25:466][471]MaterialEditorStats: Shader Count: 0
+[2025.12.12-00.10.25:466][471]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.12-00.10.25:514][473]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.12-00.10.25:514][473]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.12-00.10.25:514][473]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.12.12-00.10.25:514][473]MaterialEditorStats: Shader Count: 2
+[2025.12.12-00.10.25:514][473]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.12-00.10.26:082][527]MaterialEditorStats: Base pass shader: 175 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.12.12-00.10.26:082][527]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.12-00.10.26:082][527]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.12-00.10.26:082][527]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.12.12-00.10.26:082][527]MaterialEditorStats: Shader Count: 4
+[2025.12.12-00.10.26:082][527]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.12-00.10.28:549][776]LogShaderCompilers: Display: ================================================
+[2025.12.12-00.10.28:549][776]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.12.12-00.10.28:549][776]LogShaderCompilers: Display: Total job queries 407, among them cache hits 85 (20.88%), DDC hits 247 (60.69%), Duplicates 66 (16.22%)
+[2025.12.12-00.10.28:549][776]LogShaderCompilers: Display: Tracking 256 distinct input hashes that result in 161 distinct outputs (62.89%)
+[2025.12.12-00.10.28:549][776]LogShaderCompilers: Display: RAM used: 1.47 MiB of 1.60 GiB budget. Usage: 0.09%
+[2025.12.12-00.10.28:549][776]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.12.12-00.10.28:549][776]LogShaderCompilers: Display: Shaders Compiled: 9
+[2025.12.12-00.10.28:549][776]LogShaderCompilers: Display: Jobs assigned 9, completed 9 (100%)
+[2025.12.12-00.10.28:549][776]LogShaderCompilers: Display: Average time worker was idle: 14.83 s
+[2025.12.12-00.10.28:549][776]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.10 s
+[2025.12.12-00.10.28:549][776]LogShaderCompilers: Display: Job execution time: average 0.49 s, max 0.84 s
+[2025.12.12-00.10.28:549][776]LogShaderCompilers: Display: Job life time (pending + execution): average 0.55 s, max 0.87
+[2025.12.12-00.10.28:549][776]LogShaderCompilers: Display: Shader code size: total 64.277 KiB, numShaders 9, average 7.142 KiB, min 4.277 KiB, max 11.066 KiB
+[2025.12.12-00.10.28:549][776]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.55 s
+[2025.12.12-00.10.28:549][776]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.12.12-00.10.28:549][776]LogShaderCompilers: Display: Jobs were issued in 9 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.12.12-00.10.28:549][776]LogShaderCompilers: Display: Average processing rate: 3.53 jobs/sec
+[2025.12.12-00.10.28:549][776]LogShaderCompilers: Display: Total thread time: 3.083 s
+[2025.12.12-00.10.28:549][776]LogShaderCompilers: Display: Total thread preprocess time: 4.109 s
+[2025.12.12-00.10.28:549][776]LogShaderCompilers: Display: Percentage time preprocessing: 133.31%
+[2025.12.12-00.10.28:549][776]LogShaderCompilers: Display: Effective parallelization: 1.21 (times faster than compiling all shaders on one thread). Compare with number of workers: 10 - 0.120757
+[2025.12.12-00.10.28:549][776]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.12.12-00.10.28:549][776]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    2 times, average 0.60 sec, max 0.60 sec, min 0.59 sec)
+[2025.12.12-00.10.28:549][776]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    4 times, average 0.31 sec, max 0.32 sec, min 0.29 sec)
+[2025.12.12-00.10.28:549][776]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.24 sec, max 0.24 sec, min 0.24 sec)
+[2025.12.12-00.10.28:549][776]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    2 times, average 0.21 sec, max 0.22 sec, min 0.20 sec)
+[2025.12.12-00.10.28:549][776]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.12.12-00.10.28:549][776]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.12.12-00.10.28:549][776]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 39.82% of total time (compiled    4 times, average 0.31 sec, max 0.32 sec, min 0.29 sec)
+[2025.12.12-00.10.28:549][776]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 38.68% of total time (compiled    2 times, average 0.60 sec, max 0.60 sec, min 0.59 sec)
+[2025.12.12-00.10.28:549][776]LogShaderCompilers: Display:                                                 FLumenCardPS - 13.65% of total time (compiled    2 times, average 0.21 sec, max 0.22 sec, min 0.20 sec)
+[2025.12.12-00.10.28:549][776]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 7.85% of total time (compiled    1 times, average 0.24 sec, max 0.24 sec, min 0.24 sec)
+[2025.12.12-00.10.28:549][776]LogShaderCompilers: Display:                                      FLandscapeGrassWeightVS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.12.12-00.10.28:549][776]LogShaderCompilers: Display: === Material stats ===
+[2025.12.12-00.10.28:549][776]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.12.12-00.10.28:549][776]LogShaderCompilers: Display: Materials Translated:    158
+[2025.12.12-00.10.28:549][776]LogShaderCompilers: Display: Material Total Translate Time: 0.15 s
+[2025.12.12-00.10.28:549][776]LogShaderCompilers: Display: Material Translation Only: 0.02 s (16%)
+[2025.12.12-00.10.28:549][776]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.12.12-00.10.28:549][776]LogShaderCompilers: Display: Material Cache Hits: 12 (8%)
+[2025.12.12-00.10.28:549][776]LogShaderCompilers: Display: ================================================
+[2025.12.12-00.10.32:559][224]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.12-00.10.32:559][224]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.12.12-00.10.32:559][224]MaterialEditorStats: Shader Count: 0
+[2025.12.12-00.10.32:559][224]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.12-00.10.32:637][227]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.12-00.10.32:637][227]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.12-00.10.32:637][227]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.12.12-00.10.32:637][227]MaterialEditorStats: Shader Count: 2
+[2025.12.12-00.10.32:637][227]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.12-00.10.33:044][268]MaterialEditorStats: Base pass shader: 175 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.12.12-00.10.33:044][268]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.12-00.10.33:044][268]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.12-00.10.33:044][268]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.12.12-00.10.33:044][268]MaterialEditorStats: Shader Count: 4
+[2025.12.12-00.10.33:044][268]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.12-00.10.36:011][585]LogSlate: Window 'Color Picker' being destroyed
+[2025.12.12-00.10.46:054][626]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.12-00.10.46:054][626]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.12.12-00.10.46:054][626]MaterialEditorStats: Shader Count: 0
+[2025.12.12-00.10.46:054][626]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.12-00.10.46:127][629]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.12-00.10.46:127][629]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.12-00.10.46:127][629]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.12.12-00.10.46:127][629]MaterialEditorStats: Shader Count: 2
+[2025.12.12-00.10.46:127][629]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.12-00.10.46:543][670]MaterialEditorStats: Base pass shader: 175 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.12.12-00.10.46:543][670]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.12-00.10.46:543][670]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.12-00.10.46:543][670]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.12.12-00.10.46:543][670]MaterialEditorStats: Shader Count: 4
+[2025.12.12-00.10.46:543][670]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.12-00.10.47:436][769]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.12-00.10.47:436][769]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.12.12-00.10.47:436][769]MaterialEditorStats: Shader Count: 0
+[2025.12.12-00.10.47:436][769]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.12-00.10.47:500][772]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.12-00.10.47:500][772]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.12-00.10.47:500][772]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.12.12-00.10.47:500][772]MaterialEditorStats: Shader Count: 2
+[2025.12.12-00.10.47:500][772]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.12-00.10.47:899][808]LogSlate: Window 'Color Picker' being destroyed
+[2025.12.12-00.10.47:938][809]MaterialEditorStats: Base pass shader: 175 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.12.12-00.10.47:938][809]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.12-00.10.47:938][809]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.12-00.10.47:938][809]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.12.12-00.10.47:938][809]MaterialEditorStats: Shader Count: 4
+[2025.12.12-00.10.47:938][809]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.12-00.11.02:525][289]LogMaterialEditor: Saving and Compiling material M_Crystal
+[2025.12.12-00.11.02:595][289]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.12.12-00.11.03:334][289]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.12.12-00.11.03:337][289]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.12-00.11.03:337][289]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MyStuff/Material/M_Crystal] ([1] browsable assets)...
+[2025.12.12-00.11.03:365][289]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MyStuff/Material/M_Crystal.M_Crystal]
+[2025.12.12-00.11.03:365][289]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyStuff/Material/M_Crystal]
+[2025.12.12-00.11.03:365][289]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyStuff/Material/M_Crystal" FILE="../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Content/MyStuff/Material/M_Crystal.uasset" SILENT=true
+[2025.12.12-00.11.03:368][289]LogSavePackage: Moving output files for package: /Game/MyStuff/Material/M_Crystal
+[2025.12.12-00.11.03:368][289]LogSavePackage: Moving '../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Saved/M_CrystalA107C1074A97B7083F5A79A9C8588C18.tmp' to '../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Content/MyStuff/Material/M_Crystal.uasset'
+[2025.12.12-00.11.03:369][289]LogFileHelpers: InternalPromptForCheckoutAndSave took 31.578 ms (total: 654.624 ms)
+[2025.12.12-00.11.03:371][289]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.12-00.11.03:371][289]LogContentValidation: Enabled validators:
+[2025.12.12-00.11.03:371][289]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.12-00.11.03:371][289]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.12-00.11.03:371][289]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.12-00.11.03:371][289]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.12-00.11.03:371][289]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.12-00.11.03:371][289]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.12-00.11.03:371][289]AssetCheck: /Game/MyStuff/Material/M_Crystal Validating asset
+[2025.12.12-00.11.03:385][289]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.12-00.11.03:388][290]LogRenderer: Using fallback RTPSO
+[2025.12.12-00.11.03:431][291]LogRenderer: Using fallback RTPSO
+[2025.12.12-00.11.03:660][315]LogMaterialEditor: Saving and Compiling material M_Crystal
+[2025.12.12-00.11.03:662][315]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.12-00.11.03:662][315]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MyStuff/Material/M_Crystal] ([1] browsable assets)...
+[2025.12.12-00.11.03:662][315]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyStuff/Material/M_Crystal]
+[2025.12.12-00.11.03:662][315]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyStuff/Material/M_Crystal" FILE="../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Content/MyStuff/Material/M_Crystal.uasset" SILENT=true
+[2025.12.12-00.11.03:664][315]LogSavePackage: Moving output files for package: /Game/MyStuff/Material/M_Crystal
+[2025.12.12-00.11.03:664][315]LogSavePackage: Moving '../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Saved/M_CrystalBC5C3D364599FA7FBDD4C5998BD63E99.tmp' to '../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Content/MyStuff/Material/M_Crystal.uasset'
+[2025.12.12-00.11.03:665][315]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.434 ms (total: 657.059 ms)
+[2025.12.12-00.11.03:665][315]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.12-00.11.03:665][315]LogContentValidation: Enabled validators:
+[2025.12.12-00.11.03:666][315]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.12-00.11.03:666][315]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.12-00.11.03:666][315]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.12-00.11.03:666][315]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.12-00.11.03:666][315]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.12-00.11.03:666][315]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.12-00.11.03:666][315]AssetCheck: /Game/MyStuff/Material/M_Crystal Validating asset
+[2025.12.12-00.11.03:826][330]LogMaterialEditor: Saving and Compiling material M_Crystal
+[2025.12.12-00.11.03:829][330]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.12-00.11.03:829][330]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MyStuff/Material/M_Crystal] ([1] browsable assets)...
+[2025.12.12-00.11.03:829][330]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyStuff/Material/M_Crystal]
+[2025.12.12-00.11.03:829][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyStuff/Material/M_Crystal" FILE="../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Content/MyStuff/Material/M_Crystal.uasset" SILENT=true
+[2025.12.12-00.11.03:831][330]LogSavePackage: Moving output files for package: /Game/MyStuff/Material/M_Crystal
+[2025.12.12-00.11.03:831][330]LogSavePackage: Moving '../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Saved/M_Crystal11013FC149F57DE108400FA857852C65.tmp' to '../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Content/MyStuff/Material/M_Crystal.uasset'
+[2025.12.12-00.11.03:832][330]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.420 ms (total: 659.480 ms)
+[2025.12.12-00.11.03:832][330]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.12-00.11.03:832][330]LogContentValidation: Enabled validators:
+[2025.12.12-00.11.03:832][330]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.12-00.11.03:832][330]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.12-00.11.03:832][330]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.12-00.11.03:832][330]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.12-00.11.03:833][330]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.12-00.11.03:833][330]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.12-00.11.03:833][330]AssetCheck: /Game/MyStuff/Material/M_Crystal Validating asset
+[2025.12.12-00.11.05:780][512]LogSlate: Window 'M_Crystal' being destroyed
+[2025.12.12-00.11.05:788][512]LogSlate: Window 'M_Crystal' being destroyed
+[2025.12.12-00.11.05:792][512]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.12.12-00.11.05:792][512]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.12-00.11.05:853][512]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.12.12-00.11.05:853][512]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.12-00.11.05:889][512]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.12.12-00.11.14:029][407]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyStuff/Blueprints/BP_Crystal.BP_Crystal
+[2025.12.12-00.11.14:030][407]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2025.12.12-00.11.22:166][ 70]LogRenderer: Using fallback RTPSO
+[2025.12.12-00.11.22:219][ 75]LogD3D12RHI: Creating RTPSO with 35 shaders (0 cached, 1 new) took 53.67 ms. Compile time 51.69 ms, link time 1.96 ms.
+[2025.12.12-00.11.23:502][186]LogRenderer: Using fallback RTPSO
+[2025.12.12-00.11.23:517][187]LogRenderer: Using fallback RTPSO
+[2025.12.12-00.11.23:572][193]LogD3D12RHI: Creating RTPSO with 36 shaders (0 cached, 1 new) took 69.59 ms. Compile time 67.59 ms, link time 1.97 ms.
+[2025.12.12-00.11.24:489][271]LogRenderer: Using fallback RTPSO
+[2025.12.12-00.11.24:508][272]LogRenderer: Using fallback RTPSO
+[2025.12.12-00.11.24:562][275]LogD3D12RHI: Creating RTPSO with 37 shaders (0 cached, 1 new) took 71.63 ms. Compile time 68.39 ms, link time 3.22 ms.
+[2025.12.12-00.11.26:285][439]LogRenderer: Using fallback RTPSO
+[2025.12.12-00.11.27:512][542]LogRenderer: Using fallback RTPSO
+[2025.12.12-00.11.27:561][545]LogRenderer: Using fallback RTPSO
+[2025.12.12-00.11.27:583][546]LogD3D12RHI: Creating RTPSO with 40 shaders (0 cached, 2 new) took 70.99 ms. Compile time 69.25 ms, link time 1.71 ms.
+[2025.12.12-00.11.27:605][548]LogRenderer: Using fallback RTPSO
+[2025.12.12-00.11.38:569][527]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.12-00.11.38:570][527]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MyStuff/Blueprints/BP_Crystal] ([2] browsable assets)...
+[2025.12.12-00.11.38:570][527]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyStuff/Blueprints/BP_Crystal]
+[2025.12.12-00.11.38:570][527]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyStuff/Blueprints/BP_Crystal" FILE="../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Content/MyStuff/Blueprints/BP_Crystal.uasset" SILENT=true
+[2025.12.12-00.11.38:572][527]LogSavePackage: Moving output files for package: /Game/MyStuff/Blueprints/BP_Crystal
+[2025.12.12-00.11.38:573][527]LogSavePackage: Moving '../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Saved/BP_CrystalC72F36E145AEEFF0DF8A8F89E0C9BDBC.tmp' to '../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Content/MyStuff/Blueprints/BP_Crystal.uasset'
+[2025.12.12-00.11.38:573][527]LogFileHelpers: InternalPromptForCheckoutAndSave took 3.875 ms (total: 663.355 ms)
+[2025.12.12-00.11.38:574][527]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.12-00.11.38:574][527]LogContentValidation: Enabled validators:
+[2025.12.12-00.11.38:574][527]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.12-00.11.38:574][527]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.12-00.11.38:574][527]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.12-00.11.38:574][527]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.12-00.11.38:574][527]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.12-00.11.38:574][527]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.12-00.11.38:575][527]AssetCheck: /Game/MyStuff/Blueprints/BP_Crystal Validating asset
+[2025.12.12-00.11.39:103][569]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.12.12-00.11.43:376][985]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyStuff/Blueprints/BP_Crystal.BP_Crystal_C
+[2025.12.12-00.11.43:376][985]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyStuff/Blueprints/BP_Crystal.BP_Crystal_C
+[2025.12.12-00.11.43:377][985]LogActorFactory: Actor Factory spawned Blueprint /Game/MyStuff/Blueprints/BP_Crystal.BP_Crystal as actor: BP_Crystal_C /Game/MyStuff/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.BP_Crystal_C_0
+[2025.12.12-00.11.43:377][985]LogActorFactory: Actor Factory spawned Blueprint /Game/MyStuff/Blueprints/BP_Crystal.BP_Crystal as actor: BP_Crystal_C /Game/MyStuff/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.BP_Crystal_C_0
+[2025.12.12-00.11.43:379][985]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2025.12.12-00.11.44:331][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.12.12-00.11.44:335][ 65]LogEditorActor: Deleted 0 Actors (0.026 secs)
+[2025.12.12-00.11.44:340][ 65]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyStuff/Blueprints/BP_Crystal.BP_Crystal_C
+[2025.12.12-00.11.44:340][ 65]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyStuff/Blueprints/BP_Crystal.BP_Crystal_C
+[2025.12.12-00.11.44:342][ 65]LogActorFactory: Actor Factory spawned Blueprint /Game/MyStuff/Blueprints/BP_Crystal.BP_Crystal as actor: BP_Crystal_C /Game/MyStuff/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.BP_Crystal_C_1
+[2025.12.12-00.11.44:342][ 65]LogActorFactory: Actor Factory spawned Blueprint /Game/MyStuff/Blueprints/BP_Crystal.BP_Crystal as actor: BP_Crystal_C /Game/MyStuff/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.BP_Crystal_C_1
+[2025.12.12-00.11.53:555][ 94]Cmd: DELETE
+[2025.12.12-00.11.53:555][ 94]Cmd: ACTOR DELETE
+[2025.12.12-00.11.53:558][ 94]LogEditorActor: Deleted Actor: BP_Crystal_C
+[2025.12.12-00.11.53:576][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2025.12.12-00.11.53:577][ 94]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2025.12.12-00.12.06:068][573]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.12-00.12.06:068][573]LogWorld: BeginTearingDown for /Game/MyStuff/Levels/UEDPIE_0_Level1
+[2025.12.12-00.12.06:068][573]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2025.12.12-00.12.06:068][573]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.12-00.12.06:069][573]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.12-00.12.06:074][573]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.12-00.12.06:090][573]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.12-00.12.06:090][573]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.12.12-00.12.06:090][573]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=4
+[2025.12.12-00.12.06:092][573]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=2
+[2025.12.12-00.12.06:115][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.12.12-00.12.06:138][574]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2025.12.12-00.12.19:399][ 73]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1013.062134
+[2025.12.12-00.12.19:482][ 83]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.12-00.12.19:482][ 83]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1013.136902, Update Interval: 304.566803
+[2025.12.12-00.12.21:505][281]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyStuff/Blueprints/BP_Crystal.BP_Crystal_C
+[2025.12.12-00.12.21:505][281]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyStuff/Blueprints/BP_Crystal.BP_Crystal_C
+[2025.12.12-00.12.21:506][281]LogActorFactory: Actor Factory spawned Blueprint /Game/MyStuff/Blueprints/BP_Crystal.BP_Crystal as actor: BP_Crystal_C /Game/MyStuff/Levels/Level1.Level1:PersistentLevel.BP_Crystal_C_0
+[2025.12.12-00.12.21:508][281]LogActorFactory: Actor Factory spawned Blueprint /Game/MyStuff/Blueprints/BP_Crystal.BP_Crystal as actor: BP_Crystal_C /Game/MyStuff/Levels/Level1.Level1:PersistentLevel.BP_Crystal_C_0
+[2025.12.12-00.12.22:423][384]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.12.12-00.12.22:425][384]LogEditorActor: Deleted 0 Actors (0.022 secs)
+[2025.12.12-00.12.22:430][384]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyStuff/Blueprints/BP_Crystal.BP_Crystal_C
+[2025.12.12-00.12.22:430][384]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyStuff/Blueprints/BP_Crystal.BP_Crystal_C
+[2025.12.12-00.12.22:432][384]LogActorFactory: Actor Factory spawned Blueprint /Game/MyStuff/Blueprints/BP_Crystal.BP_Crystal as actor: BP_Crystal_C /Game/MyStuff/Levels/Level1.Level1:PersistentLevel.BP_Crystal_C_1
+[2025.12.12-00.12.22:433][384]LogActorFactory: Actor Factory spawned Blueprint /Game/MyStuff/Blueprints/BP_Crystal.BP_Crystal as actor: BP_Crystal_C /Game/MyStuff/Levels/Level1.Level1:PersistentLevel.BP_Crystal_C_1
+[2025.12.12-00.12.41:721][466]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.12-00.12.41:805][466]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.12.12-00.12.41:821][466]LogSavePackage: Moving output files for package: /Game/MyStuff/Levels/Level1
+[2025.12.12-00.12.41:821][466]LogSavePackage: Moving '../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Saved/Level176CA6428494830DBCD4C4FA923E7B18E.tmp' to '../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Content/MyStuff/Levels/Level1.umap'
+[2025.12.12-00.12.41:829][466]LogFileHelpers: Saving map 'Level1' took 0.060
+[2025.12.12-00.12.41:839][466]LogFileHelpers: InternalPromptForCheckoutAndSave took 118.757 ms (total: 782.112 ms)
+[2025.12.12-00.12.41:893][466]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.12-00.12.41:893][466]LogContentValidation: Enabled validators:
+[2025.12.12-00.12.41:894][466]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.12-00.12.41:894][466]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.12-00.12.41:894][466]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.12-00.12.41:894][466]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.12-00.12.41:894][466]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.12-00.12.41:894][466]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.12-00.12.41:894][466]AssetCheck: /Game/MyStuff/Levels/Level1 Validating asset
+[2025.12.12-00.12.44:705][789]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.12-00.12.44:713][789]LogPlayLevel: [PlayLevel] Compiling BP_PlayerPawn before play...
+[2025.12.12-00.12.44:755][789]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.12.12-00.12.44:756][789]LogPlayLevel: PlayLevel: Blueprint regeneration took 44 ms (1 blueprints)
+[2025.12.12-00.12.44:757][789]LogPlayLevel: Creating play world package: /Game/MyStuff/Levels/UEDPIE_0_Level1
+[2025.12.12-00.12.44:759][789]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002204s)
+[2025.12.12-00.12.44:759][789]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyStuff/Levels/Level1.Level1 to /Game/MyStuff/Levels/UEDPIE_0_Level1.Level1 (0.002238s)
+[2025.12.12-00.12.44:781][789]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.12.12-00.12.44:782][789]LogChaosDD: Creating Chaos Debug Draw Scene for world Level1
+[2025.12.12-00.12.44:783][789]LogPlayLevel: PIE: World Init took: (0.001410s)
+[2025.12.12-00.12.44:784][789]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.12.12-00.12.44:784][789]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.12-00.12.44:784][789]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.12-00.12.44:784][789]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.12-00.12.44:784][789]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.12-00.12.44:784][789]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.12-00.12.44:784][789]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.12-00.12.44:784][789]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.12-00.12.44:784][789]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.12-00.12.44:784][789]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.12-00.12.44:784][789]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.12-00.12.44:784][789]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.12-00.12.44:786][789]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.12-00.12.44:806][789]LogAudioMixer: Display: Using Audio Hardware Device EB321HQU (NVIDIA High Definition Audio)
+[2025.12.12-00.12.44:807][789]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.12-00.12.44:807][789]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.12-00.12.44:807][789]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.12-00.12.44:807][789]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2025.12.12-00.12.44:807][789]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2025.12.12-00.12.44:809][789]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2025.12.12-00.12.44:809][789]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2025.12.12-00.12.44:809][789]LogInit: FAudioDevice initialized with ID 5.
+[2025.12.12-00.12.44:809][789]LogAudio: Display: Audio Device (ID: 5) registered with world 'Level1'.
+[2025.12.12-00.12.44:809][789]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2025.12.12-00.12.44:812][789]LogStreaming: Display: FlushAsyncLoading(536): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.12-00.12.44:814][789]LogLoad: Game class is 'BP_MyGameMode_C'
+[2025.12.12-00.12.44:815][789]LogWorld: Bringing World /Game/MyStuff/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2025.12.11-19.12.44
+[2025.12.12-00.12.44:815][789]LogWorld: Bringing up level for play took: 0.000928
+[2025.12.12-00.12.44:817][789]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2025.12.12-00.12.44:819][789]PIE: Server logged in
+[2025.12.12-00.12.44:821][789]PIE: Play in editor total start time 0.11 seconds.
+[2025.12.12-00.12.44:846][790]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.12.12-00.12.46:975][790]LogD3D12RHI: Creating RTPSO with 44 shaders (10 cached, 0 new) took 2128.27 ms. Compile time 0.01 ms, link time 2128.23 ms.
+[2025.12.12-00.12.59:727][300]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.12-00.12.59:727][300]LogWorld: BeginTearingDown for /Game/MyStuff/Levels/UEDPIE_0_Level1
+[2025.12.12-00.12.59:727][300]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2025.12.12-00.12.59:727][300]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.12-00.12.59:731][300]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.12-00.12.59:735][300]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.12-00.12.59:752][300]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.12-00.12.59:752][300]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2025.12.12-00.12.59:752][300]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=4
+[2025.12.12-00.12.59:754][300]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=2
+[2025.12.12-00.12.59:760][300]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.12.12-00.12.59:800][301]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2025.12.12-00.13.15:974][114]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.12-00.13.16:037][114]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.12.12-00.13.16:050][114]LogSavePackage: Moving output files for package: /Game/MyStuff/Levels/Level1
+[2025.12.12-00.13.16:050][114]LogSavePackage: Moving '../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Saved/Level1866FB4C2478587BAC303CF9CF583DED9.tmp' to '../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Content/MyStuff/Levels/Level1.umap'
+[2025.12.12-00.13.16:057][114]LogFileHelpers: Saving map 'Level1' took 0.053
+[2025.12.12-00.13.16:066][114]LogFileHelpers: InternalPromptForCheckoutAndSave took 92.721 ms (total: 874.834 ms)
+[2025.12.12-00.13.16:097][114]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.12-00.13.16:097][114]LogContentValidation: Enabled validators:
+[2025.12.12-00.13.16:097][114]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.12-00.13.16:098][114]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.12-00.13.16:098][114]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.12-00.13.16:098][114]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.12-00.13.16:098][114]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.12-00.13.16:098][114]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.12-00.13.16:098][114]AssetCheck: /Game/MyStuff/Levels/Level1 Validating asset
+[2025.12.12-00.13.28:554][583]LogShaderCompilers: Display: ================================================
+[2025.12.12-00.13.28:554][583]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.12.12-00.13.28:554][583]LogShaderCompilers: Display: Total job queries 504, among them cache hits 127 (25.20%), DDC hits 267 (52.98%), Duplicates 67 (13.29%)
+[2025.12.12-00.13.28:554][583]LogShaderCompilers: Display: Tracking 310 distinct input hashes that result in 206 distinct outputs (66.45%)
+[2025.12.12-00.13.28:554][583]LogShaderCompilers: Display: RAM used: 1.79 MiB of 1.60 GiB budget. Usage: 0.11%
+[2025.12.12-00.13.28:554][583]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.12.12-00.13.28:554][583]LogShaderCompilers: Display: Shaders Compiled: 43
+[2025.12.12-00.13.28:554][583]LogShaderCompilers: Display: Jobs assigned 43, completed 43 (100%)
+[2025.12.12-00.13.28:554][583]LogShaderCompilers: Display: Average time worker was idle: 8.64 s
+[2025.12.12-00.13.28:554][583]LogShaderCompilers: Display: Time job spent in pending queue: average 0.04 s, longest 0.11 s
+[2025.12.12-00.13.28:554][583]LogShaderCompilers: Display: Job execution time: average 0.46 s, max 0.84 s
+[2025.12.12-00.13.28:554][583]LogShaderCompilers: Display: Job life time (pending + execution): average 0.51 s, max 0.87
+[2025.12.12-00.13.28:554][583]LogShaderCompilers: Display: Shader code size: total 369.905 KiB, numShaders 47, average 7.87 KiB, min 3.539 KiB, max 13.402 KiB
+[2025.12.12-00.13.28:554][583]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 9.01 s
+[2025.12.12-00.13.28:554][583]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.12.12-00.13.28:554][583]LogShaderCompilers: Display: Jobs were issued in 43 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.12.12-00.13.28:554][583]LogShaderCompilers: Display: Average processing rate: 4.77 jobs/sec
+[2025.12.12-00.13.28:554][583]LogShaderCompilers: Display: Total thread time: 16.117 s
+[2025.12.12-00.13.28:554][583]LogShaderCompilers: Display: Total thread preprocess time: 5.079 s
+[2025.12.12-00.13.28:554][583]LogShaderCompilers: Display: Percentage time preprocessing: 31.51%
+[2025.12.12-00.13.28:554][583]LogShaderCompilers: Display: Effective parallelization: 1.79 (times faster than compiling all shaders on one thread). Compare with number of workers: 10 - 0.178801
+[2025.12.12-00.13.28:554][583]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.12.12-00.13.28:554][583]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    3 times, average 0.70 sec, max 0.72 sec, min 0.68 sec)
+[2025.12.12-00.13.28:554][583]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    6 times, average 0.60 sec, max 0.64 sec, min 0.53 sec)
+[2025.12.12-00.13.28:554][583]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    1 times, average 0.51 sec, max 0.51 sec, min 0.51 sec)
+[2025.12.12-00.13.28:554][583]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    1 times, average 0.43 sec, max 0.43 sec, min 0.43 sec)
+[2025.12.12-00.13.28:554][583]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    2 times, average 0.40 sec, max 0.42 sec, min 0.38 sec)
+[2025.12.12-00.13.28:554][583]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.12.12-00.13.28:554][583]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 29.04% of total time (compiled   16 times, average 0.29 sec, max 0.34 sec, min 0.25 sec)
+[2025.12.12-00.13.28:554][583]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 22.26% of total time (compiled    6 times, average 0.60 sec, max 0.64 sec, min 0.53 sec)
+[2025.12.12-00.13.28:554][583]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 12.97% of total time (compiled    3 times, average 0.70 sec, max 0.72 sec, min 0.68 sec)
+[2025.12.12-00.13.28:554][583]LogShaderCompilers: Display:                                                 FLumenCardPS - 6.84% of total time (compiled    5 times, average 0.22 sec, max 0.24 sec, min 0.20 sec)
+[2025.12.12-00.13.28:554][583]LogShaderCompilers: Display:                                                  FVelocityPS - 4.98% of total time (compiled    2 times, average 0.40 sec, max 0.42 sec, min 0.38 sec)
+[2025.12.12-00.13.28:554][583]LogShaderCompilers: Display: === Material stats ===
+[2025.12.12-00.13.28:554][583]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.12.12-00.13.28:554][583]LogShaderCompilers: Display: Materials Translated:    166
+[2025.12.12-00.13.28:554][583]LogShaderCompilers: Display: Material Total Translate Time: 0.15 s
+[2025.12.12-00.13.28:554][583]LogShaderCompilers: Display: Material Translation Only: 0.03 s (17%)
+[2025.12.12-00.13.28:554][583]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.12.12-00.13.28:554][583]LogShaderCompilers: Display: Material Cache Hits: 12 (7%)
+[2025.12.12-00.13.28:554][583]LogShaderCompilers: Display: ================================================
+[2025.12.12-00.16.13:457][997]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.12.12-00.16.41:020][ 33]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.BP_Crystal_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.12-00.16.41:020][ 33]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Crystal_C_0 /Engine/Transient.World_7:PersistentLevel.BP_Crystal_C_0.Sphere 
+[2025.12.12-00.16.41:020][ 33]LogPhysics: Warning: Scale for /Game/MyStuff/Levels/Level1.Level1:PersistentLevel.BP_Crystal_C_1.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.12-00.16.41:020][ 33]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Crystal_C_1 /Game/MyStuff/Levels/Level1.Level1:PersistentLevel.BP_Crystal_C_1.Sphere 
+[2025.12.12-00.16.41:020][ 33]LogPhysics: Warning: Scale for /Game/MyStuff/Levels/Level1.Level1:PersistentLevel.BP_Crystal_C_2.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.12-00.16.41:020][ 33]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Crystal_C_2 /Game/MyStuff/Levels/Level1.Level1:PersistentLevel.BP_Crystal_C_2.Sphere 
+[2025.12.12-00.16.41:020][ 33]LogPhysics: Warning: Scale for /Game/MyStuff/Levels/Level1.Level1:PersistentLevel.BP_Crystal_C_3.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.12-00.16.41:020][ 33]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Crystal_C_3 /Game/MyStuff/Levels/Level1.Level1:PersistentLevel.BP_Crystal_C_3.Sphere 
+[2025.12.12-00.16.41:020][ 33]LogPhysics: Warning: Scale for /Game/MyStuff/Levels/Level1.Level1:PersistentLevel.BP_Crystal_C_4.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.12-00.16.41:020][ 33]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Crystal_C_4 /Game/MyStuff/Levels/Level1.Level1:PersistentLevel.BP_Crystal_C_4.Sphere 
+[2025.12.12-00.16.41:020][ 33]LogPhysics: Warning: Scale for /Game/MyStuff/Levels/Level1.Level1:PersistentLevel.BP_Crystal_C_5.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.12-00.16.41:020][ 33]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Crystal_C_5 /Game/MyStuff/Levels/Level1.Level1:PersistentLevel.BP_Crystal_C_5.Sphere 
+[2025.12.12-00.16.41:020][ 33]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.BP_Crystal_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.12-00.16.41:020][ 33]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Crystal_C_0 /Engine/Transient.World_7:PersistentLevel.BP_Crystal_C_0.Sphere 
+[2025.12.12-00.16.41:039][ 34]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.BP_Crystal_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.12-00.16.41:039][ 34]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Crystal_C_0 /Engine/Transient.World_7:PersistentLevel.BP_Crystal_C_0.Sphere 
+[2025.12.12-00.16.41:055][ 35]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.BP_Crystal_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.12-00.16.41:055][ 35]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Crystal_C_0 /Engine/Transient.World_7:PersistentLevel.BP_Crystal_C_0.Sphere 
+[2025.12.12-00.16.41:071][ 36]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.BP_Crystal_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.12-00.16.41:071][ 36]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Crystal_C_0 /Engine/Transient.World_7:PersistentLevel.BP_Crystal_C_0.Sphere 
+[2025.12.12-00.16.41:086][ 37]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.BP_Crystal_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.12-00.16.41:086][ 37]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Crystal_C_0 /Engine/Transient.World_7:PersistentLevel.BP_Crystal_C_0.Sphere 
+[2025.12.12-00.16.41:102][ 38]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.BP_Crystal_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.12-00.16.41:102][ 38]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Crystal_C_0 /Engine/Transient.World_7:PersistentLevel.BP_Crystal_C_0.Sphere 
+[2025.12.12-00.16.41:301][ 51]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.BP_Crystal_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.12-00.16.41:302][ 51]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Crystal_C_0 /Engine/Transient.World_7:PersistentLevel.BP_Crystal_C_0.Sphere 
+[2025.12.12-00.16.41:302][ 51]LogPhysics: Warning: Scale for /Game/MyStuff/Levels/Level1.Level1:PersistentLevel.BP_Crystal_C_1.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.12-00.16.41:302][ 51]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Crystal_C_1 /Game/MyStuff/Levels/Level1.Level1:PersistentLevel.BP_Crystal_C_1.Sphere 
+[2025.12.12-00.16.41:302][ 51]LogPhysics: Warning: Scale for /Game/MyStuff/Levels/Level1.Level1:PersistentLevel.BP_Crystal_C_2.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.12-00.16.41:302][ 51]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Crystal_C_2 /Game/MyStuff/Levels/Level1.Level1:PersistentLevel.BP_Crystal_C_2.Sphere 
+[2025.12.12-00.16.41:302][ 51]LogPhysics: Warning: Scale for /Game/MyStuff/Levels/Level1.Level1:PersistentLevel.BP_Crystal_C_3.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.12-00.16.41:302][ 51]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Crystal_C_3 /Game/MyStuff/Levels/Level1.Level1:PersistentLevel.BP_Crystal_C_3.Sphere 
+[2025.12.12-00.16.41:302][ 51]LogPhysics: Warning: Scale for /Game/MyStuff/Levels/Level1.Level1:PersistentLevel.BP_Crystal_C_4.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.12-00.16.41:302][ 51]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Crystal_C_4 /Game/MyStuff/Levels/Level1.Level1:PersistentLevel.BP_Crystal_C_4.Sphere 
+[2025.12.12-00.16.41:302][ 51]LogPhysics: Warning: Scale for /Game/MyStuff/Levels/Level1.Level1:PersistentLevel.BP_Crystal_C_5.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.12-00.16.41:302][ 51]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Crystal_C_5 /Game/MyStuff/Levels/Level1.Level1:PersistentLevel.BP_Crystal_C_5.Sphere 
+[2025.12.12-00.16.41:302][ 51]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.BP_Crystal_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.12-00.16.41:302][ 51]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Crystal_C_0 /Engine/Transient.World_7:PersistentLevel.BP_Crystal_C_0.Sphere 
+[2025.12.12-00.16.41:318][ 52]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.BP_Crystal_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.12-00.16.41:318][ 52]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Crystal_C_0 /Engine/Transient.World_7:PersistentLevel.BP_Crystal_C_0.Sphere 
+[2025.12.12-00.16.41:336][ 53]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.BP_Crystal_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.12-00.16.41:336][ 53]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Crystal_C_0 /Engine/Transient.World_7:PersistentLevel.BP_Crystal_C_0.Sphere 
+[2025.12.12-00.16.41:352][ 54]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.BP_Crystal_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.12-00.16.41:352][ 54]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Crystal_C_0 /Engine/Transient.World_7:PersistentLevel.BP_Crystal_C_0.Sphere 
+[2025.12.12-00.16.41:367][ 55]LogPhysics: Warning: Scale for /Engine/Transient.World_7:PersistentLevel.BP_Crystal_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.12.12-00.16.41:367][ 55]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: BP_Crystal_C_0 /Engine/Transient.World_7:PersistentLevel.BP_Crystal_C_0.Sphere 
+[2025.12.12-00.16.59:170][257]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.12-00.16.59:212][257]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/MyStuff/Blueprints/BP_Crystal] ([2] browsable assets)...
+[2025.12.12-00.16.59:220][257]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/MyStuff/Blueprints/BP_Crystal.BP_Crystal]
+[2025.12.12-00.16.59:220][257]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyStuff/Blueprints/BP_Crystal]
+[2025.12.12-00.16.59:220][257]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyStuff/Blueprints/BP_Crystal" FILE="../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Content/MyStuff/Blueprints/BP_Crystal.uasset" SILENT=true
+[2025.12.12-00.16.59:224][257]LogSavePackage: Moving output files for package: /Game/MyStuff/Blueprints/BP_Crystal
+[2025.12.12-00.16.59:225][257]LogSavePackage: Moving '../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Saved/BP_Crystal0319533A4C078D0C0B087FB161AC1FF1.tmp' to '../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Content/MyStuff/Blueprints/BP_Crystal.uasset'
+[2025.12.12-00.16.59:235][257]LogFileHelpers: InternalPromptForCheckoutAndSave took 65.834 ms (total: 940.668 ms)
+[2025.12.12-00.16.59:275][257]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.12-00.16.59:275][257]LogContentValidation: Enabled validators:
+[2025.12.12-00.16.59:275][257]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.12-00.16.59:275][257]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.12-00.16.59:275][257]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.12-00.16.59:275][257]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.12-00.16.59:275][257]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.12-00.16.59:275][257]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.12-00.16.59:275][257]AssetCheck: /Game/MyStuff/Blueprints/BP_Crystal Validating asset
+[2025.12.12-00.16.59:641][281]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.12.12-00.17.32:849][935]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1326.517700
+[2025.12.12-00.17.32:946][943]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.12-00.17.32:946][944]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1326.603027, Update Interval: 336.116821
+[2025.12.12-00.19.24:142][886]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.12-00.19.24:194][886]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/MyStuff/Blueprints/BP_Crystal] ([2] browsable assets)...
+[2025.12.12-00.19.24:225][886]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/MyStuff/Blueprints/BP_Crystal.BP_Crystal]
+[2025.12.12-00.19.24:225][886]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyStuff/Blueprints/BP_Crystal]
+[2025.12.12-00.19.24:225][886]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyStuff/Blueprints/BP_Crystal" FILE="../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Content/MyStuff/Blueprints/BP_Crystal.uasset" SILENT=true
+[2025.12.12-00.19.24:227][886]LogSavePackage: Moving output files for package: /Game/MyStuff/Blueprints/BP_Crystal
+[2025.12.12-00.19.24:229][886]LogSavePackage: Moving '../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Saved/BP_Crystal198E18CE4523A54AB97B0687382ED5BB.tmp' to '../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Content/MyStuff/Blueprints/BP_Crystal.uasset'
+[2025.12.12-00.19.24:239][886]LogFileHelpers: InternalPromptForCheckoutAndSave took 97.095 ms (total: 1.03 sec)
+[2025.12.12-00.19.24:272][886]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.12-00.19.24:272][886]LogContentValidation: Enabled validators:
+[2025.12.12-00.19.24:272][886]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.12-00.19.24:272][886]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.12-00.19.24:272][886]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.12-00.19.24:272][886]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.12-00.19.24:272][886]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.12-00.19.24:272][886]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.12-00.19.24:272][886]AssetCheck: /Game/MyStuff/Blueprints/BP_Crystal Validating asset
+[2025.12.12-00.19.24:532][905]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.12.12-00.19.28:403][206]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyStuff/Blueprints/BP_TriggerBox.BP_TriggerBox
+[2025.12.12-00.19.28:403][206]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2025.12.12-00.21.26:273][638]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.12-00.21.26:325][638]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/MyStuff/Blueprints/BP_Crystal] ([2] browsable assets)...
+[2025.12.12-00.21.26:352][638]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/MyStuff/Blueprints/BP_Crystal.BP_Crystal]
+[2025.12.12-00.21.26:352][638]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyStuff/Blueprints/BP_Crystal]
+[2025.12.12-00.21.26:352][638]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyStuff/Blueprints/BP_Crystal" FILE="../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Content/MyStuff/Blueprints/BP_Crystal.uasset" SILENT=true
+[2025.12.12-00.21.26:357][638]LogSavePackage: Moving output files for package: /Game/MyStuff/Blueprints/BP_Crystal
+[2025.12.12-00.21.26:357][638]LogSavePackage: Moving '../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Saved/BP_CrystalA9745620406928F5AA3CE7BDCD75C675.tmp' to '../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Content/MyStuff/Blueprints/BP_Crystal.uasset'
+[2025.12.12-00.21.26:367][638]LogFileHelpers: InternalPromptForCheckoutAndSave took 94.625 ms (total: 1.13 sec)
+[2025.12.12-00.21.26:423][638]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.12-00.21.26:423][638]LogContentValidation: Enabled validators:
+[2025.12.12-00.21.26:423][638]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.12-00.21.26:423][638]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.12-00.21.26:423][638]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.12-00.21.26:423][638]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.12-00.21.26:423][638]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.12-00.21.26:423][638]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.12-00.21.26:423][638]AssetCheck: /Game/MyStuff/Blueprints/BP_Crystal Validating asset
+[2025.12.12-00.21.26:710][656]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.12.12-00.21.29:864][976]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.12-00.21.29:870][976]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.12-00.21.29:898][976]LogPlayLevel: Creating play world package: /Game/MyStuff/Levels/UEDPIE_0_Level1
+[2025.12.12-00.21.29:900][976]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002535s)
+[2025.12.12-00.21.29:900][976]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyStuff/Levels/Level1.Level1 to /Game/MyStuff/Levels/UEDPIE_0_Level1.Level1 (0.002583s)
+[2025.12.12-00.21.29:922][976]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.12.12-00.21.29:924][976]LogChaosDD: Creating Chaos Debug Draw Scene for world Level1
+[2025.12.12-00.21.29:926][976]LogPlayLevel: PIE: World Init took: (0.001460s)
+[2025.12.12-00.21.29:926][976]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2025.12.12-00.21.29:926][976]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.12-00.21.29:926][976]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.12-00.21.29:926][976]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.12-00.21.29:926][976]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.12-00.21.29:926][976]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.12-00.21.29:926][976]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.12-00.21.29:926][976]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.12-00.21.29:926][976]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.12-00.21.29:926][976]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.12-00.21.29:926][976]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.12-00.21.29:927][976]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.12-00.21.29:928][976]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.12-00.21.29:951][976]LogAudioMixer: Display: Using Audio Hardware Device EB321HQU (NVIDIA High Definition Audio)
+[2025.12.12-00.21.29:952][976]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.12-00.21.29:952][976]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.12-00.21.29:952][976]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.12-00.21.29:952][976]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2025.12.12-00.21.29:952][976]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2025.12.12-00.21.29:954][976]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2025.12.12-00.21.29:954][976]LogInit: FAudioDevice initialized with ID 6.
+[2025.12.12-00.21.29:954][976]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2025.12.12-00.21.29:954][976]LogAudio: Display: Audio Device (ID: 6) registered with world 'Level1'.
+[2025.12.12-00.21.29:954][976]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2025.12.12-00.21.29:957][976]LogStreaming: Display: FlushAsyncLoading(537): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.12-00.21.29:957][976]LogLoad: Game class is 'BP_MyGameMode_C'
+[2025.12.12-00.21.29:958][976]LogWorld: Bringing World /Game/MyStuff/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2025.12.11-19.21.29
+[2025.12.12-00.21.29:958][976]LogWorld: Bringing up level for play took: 0.001018
+[2025.12.12-00.21.29:960][976]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2025.12.12-00.21.29:963][976]PIE: Server logged in
+[2025.12.12-00.21.29:965][976]PIE: Play in editor total start time 0.096 seconds.
+[2025.12.12-00.21.29:992][977]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.12.12-00.21.33:384][375]LogScript: Warning: Accessed None trying to read (real) property CallFunc_GetOwner_ReturnValue in not an UClass
+	BP_Crystal_C /Game/MyStuff/Levels/UEDPIE_0_Level1.Level1:PersistentLevel.BP_Crystal_C_1
+	Function /Game/MyStuff/Blueprints/BP_Crystal.BP_Crystal_C:ExecuteUbergraph_BP_Crystal:0029
+[2025.12.12-00.21.33:384][375]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetOwner_ReturnValue in not an UClass". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph BP Crystal Blueprint:  BP_Crystal
+[2025.12.12-00.21.42:067][412]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.12-00.21.42:067][412]LogWorld: BeginTearingDown for /Game/MyStuff/Levels/UEDPIE_0_Level1
+[2025.12.12-00.21.42:067][412]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2025.12.12-00.21.42:068][412]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.12-00.21.42:071][412]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.12-00.21.42:076][412]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.12-00.21.42:093][412]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.12-00.21.42:093][412]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2025.12.12-00.21.42:093][412]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=4
+[2025.12.12-00.21.42:095][412]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=2
+[2025.12.12-00.21.42:097][412]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.12-00.21.42:099][412]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.12.12-00.21.42:222][413]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2025.12.12-00.21.44:881][678]LogSlate: Window 'Message Log' being destroyed
+[2025.12.12-00.21.44:895][678]LogSlate: Window 'Message Log' being destroyed
+[2025.12.12-00.22.46:898][604]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.12-00.22.46:933][604]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/MyStuff/Blueprints/BP_Crystal] ([2] browsable assets)...
+[2025.12.12-00.22.46:960][604]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/MyStuff/Blueprints/BP_Crystal.BP_Crystal]
+[2025.12.12-00.22.46:960][604]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyStuff/Blueprints/BP_Crystal]
+[2025.12.12-00.22.46:960][604]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyStuff/Blueprints/BP_Crystal" FILE="../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Content/MyStuff/Blueprints/BP_Crystal.uasset" SILENT=true
+[2025.12.12-00.22.46:964][604]LogSavePackage: Moving output files for package: /Game/MyStuff/Blueprints/BP_Crystal
+[2025.12.12-00.22.46:964][604]LogSavePackage: Moving '../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Saved/BP_Crystal61FD72884E28591300DF31AC5B5B4405.tmp' to '../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Content/MyStuff/Blueprints/BP_Crystal.uasset'
+[2025.12.12-00.22.46:974][604]LogFileHelpers: InternalPromptForCheckoutAndSave took 75.507 ms (total: 1.20 sec)
+[2025.12.12-00.22.47:026][604]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.12-00.22.47:026][604]LogContentValidation: Enabled validators:
+[2025.12.12-00.22.47:026][604]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.12-00.22.47:026][604]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.12-00.22.47:026][604]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.12-00.22.47:026][604]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.12-00.22.47:026][604]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.12-00.22.47:026][604]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.12-00.22.47:026][604]AssetCheck: /Game/MyStuff/Blueprints/BP_Crystal Validating asset
+[2025.12.12-00.22.47:319][626]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.12.12-00.22.50:215][919]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.12-00.22.50:221][919]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.12-00.22.50:265][919]LogPlayLevel: Creating play world package: /Game/MyStuff/Levels/UEDPIE_0_Level1
+[2025.12.12-00.22.50:269][919]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003429s)
+[2025.12.12-00.22.50:269][919]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyStuff/Levels/Level1.Level1 to /Game/MyStuff/Levels/UEDPIE_0_Level1.Level1 (0.003486s)
+[2025.12.12-00.22.50:290][919]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.12.12-00.22.50:292][919]LogChaosDD: Creating Chaos Debug Draw Scene for world Level1
+[2025.12.12-00.22.50:294][919]LogPlayLevel: PIE: World Init took: (0.001745s)
+[2025.12.12-00.22.50:295][919]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2025.12.12-00.22.50:295][919]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.12-00.22.50:295][919]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.12-00.22.50:295][919]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.12-00.22.50:295][919]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.12-00.22.50:295][919]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.12-00.22.50:295][919]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.12-00.22.50:295][919]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.12-00.22.50:295][919]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.12-00.22.50:295][919]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.12-00.22.50:295][919]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.12-00.22.50:295][919]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.12-00.22.50:297][919]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.12-00.22.50:317][919]LogAudioMixer: Display: Using Audio Hardware Device EB321HQU (NVIDIA High Definition Audio)
+[2025.12.12-00.22.50:317][919]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.12-00.22.50:317][919]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.12-00.22.50:317][919]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.12-00.22.50:318][919]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2025.12.12-00.22.50:318][919]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2025.12.12-00.22.50:319][919]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2025.12.12-00.22.50:319][919]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2025.12.12-00.22.50:319][919]LogInit: FAudioDevice initialized with ID 7.
+[2025.12.12-00.22.50:319][919]LogAudio: Display: Audio Device (ID: 7) registered with world 'Level1'.
+[2025.12.12-00.22.50:319][919]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2025.12.12-00.22.50:323][919]LogStreaming: Display: FlushAsyncLoading(538): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.12-00.22.50:324][919]LogLoad: Game class is 'BP_MyGameMode_C'
+[2025.12.12-00.22.50:325][919]LogWorld: Bringing World /Game/MyStuff/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2025.12.11-19.22.50
+[2025.12.12-00.22.50:325][919]LogWorld: Bringing up level for play took: 0.000914
+[2025.12.12-00.22.50:327][919]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2025.12.12-00.22.50:329][919]PIE: Server logged in
+[2025.12.12-00.22.50:331][919]PIE: Play in editor total start time 0.11 seconds.
+[2025.12.12-00.22.50:358][920]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.12.12-00.23.13:467][683]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/MyStuff/Levels/Level1"
+[2025.12.12-00.23.13:467][683]LogNet: Browse: /Game/MyStuff/Levels/Level1
+[2025.12.12-00.23.13:467][683]LogLoad: LoadMap: /Game/MyStuff/Levels/Level1
+[2025.12.12-00.23.13:467][683]LogWorld: BeginTearingDown for /Game/MyStuff/Levels/UEDPIE_0_Level1
+[2025.12.12-00.23.13:467][683]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2025.12.12-00.23.13:468][683]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.12-00.23.13:525][683]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.12-00.23.13:526][683]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.12.12-00.23.13:529][683]LogPlayLevel: Creating play world package: /Game/MyStuff/Levels/UEDPIE_0_Level1
+[2025.12.12-00.23.13:532][683]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002608s)
+[2025.12.12-00.23.13:532][683]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyStuff/Levels/Level1.Level1 to /Game/MyStuff/Levels/UEDPIE_0_Level1.Level1 (0.002655s)
+[2025.12.12-00.23.13:532][683]LogAudio: Display: Audio Device (ID: 7) registered with world 'Level1'.
+[2025.12.12-00.23.13:532][683]LogChaosDD: Creating Chaos Debug Draw Scene for world Level1
+[2025.12.12-00.23.13:533][683]LogPlayLevel: PIE: World Init took: (0.001289s)
+[2025.12.12-00.23.13:533][683]LogStreaming: Display: FlushAsyncLoading(539): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.12-00.23.13:533][683]LogLoad: Game class is 'BP_MyGameMode_C'
+[2025.12.12-00.23.13:533][683]LogWorld: Bringing World /Game/MyStuff/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2025.12.11-19.23.13
+[2025.12.12-00.23.13:533][683]LogWorld: Bringing up level for play took: 0.000619
+[2025.12.12-00.23.13:536][683]LogLoad: Took 0.068614 seconds to LoadMap(/Game/MyStuff/Levels/UEDPIE_0_Level1)
+[2025.12.12-00.23.13:536][683]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/MyStuff/Levels/UEDPIE_0_Level1
+[2025.12.12-00.23.13:541][683]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.12.12-00.23.26:383][218]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1680.045654
+[2025.12.12-00.23.26:473][229]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.12-00.23.26:473][229]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1680.127930, Update Interval: 343.930176
+[2025.12.12-00.23.39:795][820]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.12-00.23.39:795][820]LogWorld: BeginTearingDown for /Game/MyStuff/Levels/UEDPIE_0_Level1
+[2025.12.12-00.23.39:795][820]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2025.12.12-00.23.39:795][820]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.12-00.23.39:799][820]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.12-00.23.39:803][820]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.12-00.23.39:823][820]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.12-00.23.39:823][820]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2025.12.12-00.23.39:823][820]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=4
+[2025.12.12-00.23.39:826][820]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=2
+[2025.12.12-00.23.39:830][820]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.12.12-00.23.39:869][821]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2025.12.12-00.23.48:607][769]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyStuff/Blueprints/BP_PlayerPawn.BP_PlayerPawn
+[2025.12.12-00.23.48:608][769]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2025.12.12-00.24.00:677][589]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.12-00.24.00:717][589]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MyStuff/Blueprints/BP_PlayerPawn] ([2] browsable assets)...
+[2025.12.12-00.24.00:717][589]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyStuff/Blueprints/BP_PlayerPawn]
+[2025.12.12-00.24.00:725][589]LogSavePackage: Moving output files for package: /Game/MyStuff/Blueprints/BP_PlayerPawn
+[2025.12.12-00.24.00:726][589]LogSavePackage: Moving '../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Saved/BP_PlayerPawn985AF7574A8D76028B7531A945B6AB8F.tmp' to '../../../../../../Users/antho/Desktop/GitHub/Gem-Cave/Gem-Cave/GemCave/Content/MyStuff/Blueprints/BP_PlayerPawn.uasset'
+[2025.12.12-00.24.00:737][589]LogFileHelpers: InternalPromptForCheckoutAndSave took 58.825 ms (total: 1.26 sec)
+[2025.12.12-00.24.00:784][589]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.12-00.24.00:784][589]LogContentValidation: Enabled validators:
+[2025.12.12-00.24.00:784][589]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.12-00.24.00:784][589]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.12-00.24.00:784][589]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.12-00.24.00:784][589]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.12-00.24.00:784][589]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.12-00.24.00:784][589]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.12-00.24.00:784][589]AssetCheck: /Game/MyStuff/Blueprints/BP_PlayerPawn Validating asset
+[2025.12.12-00.24.06:553][ 64]LogSlate: Window 'BP_PlayerPawn' being destroyed
+[2025.12.12-00.24.06:559][ 64]LogSlate: Window 'BP_PlayerPawn' being destroyed
+[2025.12.12-00.24.06:562][ 64]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.12.12-00.24.06:562][ 64]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.12-00.24.06:595][ 64]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.12.12-00.24.06:595][ 64]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.12.12-00.24.06:595][ 64]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.12-00.24.06:626][ 64]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.12.12-00.24.06:626][ 64]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.12.12-00.24.06:626][ 64]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.12-00.24.06:690][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
